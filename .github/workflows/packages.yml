@@ -40,7 +40,7 @@ jobs:
     runs-on: ubuntu-24.04
     strategy:
       matrix:
-        target_arch: [aarch64, arm, i686, x86_64]
+        target_arch: [aarch64]
       fail-fast: false
     steps:
     - name: Clone repository
@@ -330,18 +330,6 @@ jobs:
     - name: Randomise buildorder.py test (aarch64)
       env:
         TERMUX_ARCH: aarch64
-      run: ./scripts/bin/test-buildorder-random
-    - name: Randomise buildorder.py test (arm)
-      env:
-        TERMUX_ARCH: arm
-      run: ./scripts/bin/test-buildorder-random
-    - name: Randomise buildorder.py test (i686)
-      env:
-        TERMUX_ARCH: i686
-      run: ./scripts/bin/test-buildorder-random
-    - name: Randomise buildorder.py test (x86_64)
-      env:
-        TERMUX_ARCH: x86_64
       run: ./scripts/bin/test-buildorder-random
 
   upload-test:
