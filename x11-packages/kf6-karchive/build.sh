@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/frameworks/karchive"
 TERMUX_PKG_DESCRIPTION="Qt addon providing access to numerous types of archives (KDE)"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.26.0"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/frameworks/${TERMUX_PKG_VERSION%.*}/karchive-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=a7fdf6d0b8db88d60aa52bcc87d8e00d95391a1ad39a4b2a8e9f3027b8ff4035

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/frameworks/kquickcharts"
 TERMUX_PKG_DESCRIPTION="A QtQuick plugin providing high-performance charts"
 TERMUX_PKG_LICENSE="LGPL-2.0-only, LGPL-3.0-only"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.26.0"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/frameworks/${TERMUX_PKG_VERSION%.*}/kquickcharts-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=ae3e0784a2a2d1396cb751cc61f43a567e066d6434971246b1a18365481a1b52

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/linuxmint/mint-themes
 TERMUX_PKG_DESCRIPTION="Mint Mint-X, Mint-Y for cinnamon"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.4.0"
 TERMUX_PKG_SRCURL="https://github.com/linuxmint/mint-themes/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256=a48c87468ff15e6cfb6c5fdf0c1e0784a64228f29ab92254e6aff88b6806c5c7

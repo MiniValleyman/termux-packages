@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://audiofile.68k.org/"
 TERMUX_PKG_DESCRIPTION="Silicon Graphics Audio File Library"
 TERMUX_PKG_LICENSE="Apache-2.0, GPL-2.0-or-later, LGPL-2.1-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.3.6"
 TERMUX_PKG_SRCURL="https://audiofile.68k.org/audiofile-${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256="cdc60df19ab08bfe55344395739bb08f50fc15c92da3962fac334d3bff116965"

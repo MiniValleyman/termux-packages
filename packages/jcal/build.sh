@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="http://nongnu.org/jcal"
 TERMUX_PKG_DESCRIPTION="UNIX-cal-like tool to display Jalali (Persian/Iranian) calendar"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.5.1"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="https://github.com/persiancal/jcal/archive/refs/tags/v$TERMUX_PKG_VERSION.tar.gz"

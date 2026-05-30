@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://mate-desktop.org/
 TERMUX_PKG_DESCRIPTION="The file manager for the MATE desktop"
 TERMUX_PKG_LICENSE="GPL-2.0, LGPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.28.0"
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://pub.mate-desktop.org/releases/${TERMUX_PKG_VERSION%.*}/caja-${TERMUX_PKG_VERSION}.tar.xz

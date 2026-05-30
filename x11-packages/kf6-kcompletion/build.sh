@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/frameworks/kcompletion"
 TERMUX_PKG_DESCRIPTION='Text completion helpers and widgets'
 TERMUX_PKG_LICENSE="LGPL-2.0, LGPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.26.0"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/frameworks/${TERMUX_PKG_VERSION%.*}/kcompletion-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=95f71eb807e4de40ecdfe7234c9c3d844423171ac52588aecca642f78d904e48

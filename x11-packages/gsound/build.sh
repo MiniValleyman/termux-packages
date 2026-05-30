@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.gnome.org/GNOME/gsound
 TERMUX_PKG_DESCRIPTION="Small gobject library for playing system sounds"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.0.3"
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL="https://download.gnome.org/sources/gsound/${TERMUX_PKG_VERSION%.*}/gsound-${TERMUX_PKG_VERSION}.tar.xz"

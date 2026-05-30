@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://www.lxde.org/
 TERMUX_PKG_DESCRIPTION="Lightweight image viewer"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.3.1"
 TERMUX_PKG_SRCURL="https://github.com/lxde/gpicview/archive/refs/tags/$TERMUX_PKG_VERSION.tar.gz"
 TERMUX_PKG_SHA256=b65dd991368ed2b08645a50cb6d4831e21e3c0d0f7d72394d40105ddba754533

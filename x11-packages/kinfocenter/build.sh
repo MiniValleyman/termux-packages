@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/plasma/kinfocenter"
 TERMUX_PKG_DESCRIPTION="A utility that provides information about a computer system"
 TERMUX_PKG_LICENSE="LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.6.5"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/plasma/${TERMUX_PKG_VERSION}/kinfocenter-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=9b777f870f120939e374215ce2ced389571d4bdeb4f6f0092c908b8c2e0c2fd6

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/graphics/arianna"
 TERMUX_PKG_DESCRIPTION="EPub Reader for mobile devices"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later, LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="26.04.1"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/release-service/${TERMUX_PKG_VERSION}/src/arianna-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256="9b62f36f0b51205116e64accdee6f13ea03d00bf5bea353f1f5e34ef7079bf96"

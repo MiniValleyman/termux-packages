@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://pari.math.u-bordeaux.fr/
 TERMUX_PKG_DESCRIPTION="A computer algebra system designed for fast computations in number theory"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.17.3"
 TERMUX_PKG_SRCURL=https://pari.math.u-bordeaux.fr/pub/pari/unix/pari-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=8d9c4fcd584c468d27e0f23c36836587284452094c4b1c404c20c4b810462dcb

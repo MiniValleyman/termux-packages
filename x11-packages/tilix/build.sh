@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gnunn1.github.io/tilix-web
 TERMUX_PKG_DESCRIPTION="A tiling terminal emulator for Linux using GTK+ 3"
 TERMUX_PKG_LICENSE="MPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_BUILD_IN_SRC=true
 TERMUX_PKG_VERSION=1.9.6
 TERMUX_PKG_REVISION=1

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://sftpgo.com/
 TERMUX_PKG_DESCRIPTION="Full-featured and highly configurable SFTP, HTTP/S, FTP/S and WebDAV server"
 TERMUX_PKG_LICENSE="AGPL-V3"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.7.1"
 TERMUX_PKG_SRCURL=https://github.com/drakkan/sftpgo/releases/download/v$TERMUX_PKG_VERSION/sftpgo_v${TERMUX_PKG_VERSION}_src_with_deps.tar.xz
 TERMUX_PKG_SHA256=64b2826af512eb8ce8cd880ce4b9a23897b45515130ea8cc4490fd70a80c812a

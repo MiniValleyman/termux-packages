@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/5rahim/seanime
 TERMUX_PKG_DESCRIPTION="Self-hosted anime and manga server for sea rovers."
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.8.3"
 TERMUX_PKG_SRCURL=https://github.com/5rahim/seanime/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=7989bcedd2c42ea915868f8ec98ea3097927aeb2adffda7bea74b65011dea748

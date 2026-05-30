@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://dl.matroska.org/downloads/libmatroska/
 TERMUX_PKG_DESCRIPTION="Matroska library"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1.7.1
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/Matroska-Org/libmatroska/archive/refs/tags/release-$TERMUX_PKG_VERSION.tar.gz

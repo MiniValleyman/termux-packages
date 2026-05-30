@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/network/kio-extras"
 TERMUX_PKG_DESCRIPTION="Additional components to increase the functionality of KIO"
 TERMUX_PKG_LICENSE="LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="26.04.1"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/release-service/${TERMUX_PKG_VERSION}/src/kio-extras-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=f53a64fbe5f0bbcadde55f347fef41d2f39c0b5cdcb7c74df8dee7439ee1194c

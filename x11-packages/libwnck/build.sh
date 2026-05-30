@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.gnome.org/GNOME/libwnck
 TERMUX_PKG_DESCRIPTION="Window Navigator Construction Kit"
 TERMUX_PKG_LICENSE="LGPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="43.3"
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/libwnck/${TERMUX_PKG_VERSION%.*}/libwnck-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=6af8ac41a8f067ade1d3caaed254a83423b5f61ad3f7a460fcacbac2e192bdf7

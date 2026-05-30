@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://kde.org/plasma-desktop/"
 TERMUX_PKG_DESCRIPTION="Meta package to install KDE Plasma"
 TERMUX_PKG_LICENSE="Public Domain"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=6.6
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_AUTO_UPDATE=false

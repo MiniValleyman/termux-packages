@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://wiki.gnome.org/Apps/Ghex
 TERMUX_PKG_DESCRIPTION="A simple binary editor for the Gnome desktop."
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="50.2"
 TERMUX_PKG_SRCURL=https://gitlab.gnome.org/GNOME/ghex/-/archive/${TERMUX_PKG_VERSION}/ghex-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=ad3a2d1dd1aa288dc123c449f6ceeb0defb07ccf62a563ca7f3d54f0060ca07d

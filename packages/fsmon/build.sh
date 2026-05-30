@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/nowsecure/fsmon
 TERMUX_PKG_DESCRIPTION="Filesystem monitor with fanotify and inotify backends"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.8.8"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/nowsecure/fsmon/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz

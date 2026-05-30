@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.mixxx.org
 TERMUX_PKG_DESCRIPTION="Free DJ software that gives you everything you need to perform live mixes"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.5.6"
 TERMUX_PKG_SRCURL="https://github.com/mixxxdj/mixxx/archive/refs/tags/$TERMUX_PKG_VERSION.tar.gz"
 TERMUX_PKG_SHA256=9cfc9025d50d2511767ee52a07b8854f75c581f0585197d043bc219fcf9f9050

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/plasma/plasma-systemmonitor"
 TERMUX_PKG_DESCRIPTION="An interface for monitoring system sensors, process information and other system resources"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later, LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.6.5"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/plasma/${TERMUX_PKG_VERSION}/plasma-systemmonitor-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=b6ebf7c1e6f7a42c91a0b511971fd67041d4d9b617edc3a4fc0b08af4a0ec78f

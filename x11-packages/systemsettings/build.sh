@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/plasma/systemsettings"
 TERMUX_PKG_DESCRIPTION="KDE system manager for hardware, software, and workspaces"
 TERMUX_PKG_LICENSE="LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.6.5"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/plasma/${TERMUX_PKG_VERSION}/systemsettings-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=61334eff64567ad209e279f60c6d1ab13b670f9a300fde9480fe93596232a986

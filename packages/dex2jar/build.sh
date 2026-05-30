@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/pxb1988/dex2jar
 TERMUX_PKG_DESCRIPTION="Tools to work with android .dex and java .class files"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.4"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/pxb1988/dex2jar/releases/download/v${TERMUX_PKG_VERSION}/dex-tools-v${TERMUX_PKG_VERSION}.zip

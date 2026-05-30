@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.luanti.org
 TERMUX_PKG_DESCRIPTION="An open source voxel game engine."
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1:5.16.1"
 TERMUX_PKG_SRCURL=https://github.com/luanti-org/luanti/archive/refs/tags/${TERMUX_PKG_VERSION:2}.tar.gz
 TERMUX_PKG_SHA256=57926752365a17d3bf64945ea04dc63cc446a8863037b043b97799af30126b6b

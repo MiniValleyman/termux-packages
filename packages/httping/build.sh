@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/folkertvanheusden/HTTPing
 TERMUX_PKG_DESCRIPTION="ping-like program for http-requests"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="4.4.0"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/folkertvanheusden/HTTPing/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

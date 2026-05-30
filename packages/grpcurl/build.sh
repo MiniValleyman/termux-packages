@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/fullstorydev/grpcurl
 TERMUX_PKG_DESCRIPTION="Like cURL, but for gRPC: Command-line tool for interacting with gRPC servers"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.9.3"
 TERMUX_PKG_SRCURL="https://github.com/fullstorydev/grpcurl/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_AUTO_UPDATE=true

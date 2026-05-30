@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/v1cont/yad
 TERMUX_PKG_DESCRIPTION="Display graphical dialogs from shell scripts or command line"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="14.2"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="https://github.com/v1cont/yad/releases/download/v${TERMUX_PKG_VERSION}/yad-${TERMUX_PKG_VERSION}.tar.xz"

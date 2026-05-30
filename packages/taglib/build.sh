@@ -3,7 +3,7 @@ TERMUX_PKG_DESCRIPTION="A Library for reading and editing the meta-data of sever
 # License: LGPL-2.1, MPL-1.1
 TERMUX_PKG_LICENSE="custom"
 TERMUX_PKG_LICENSE_FILE="COPYING.LGPL, COPYING.MPL"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.3"
 TERMUX_PKG_SRCURL="https://github.com/taglib/taglib/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256=1b4b9edd723c92da3e6845bd2a3f5cde181643ff788ffe52ff53a5fd711cc8ce

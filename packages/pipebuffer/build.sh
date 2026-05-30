@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/tfenne/pipebuffer
 TERMUX_PKG_DESCRIPTION="Arbitrary-sized in-memory buffer between pipelined programs (non-blocking mbuffer analogue for pipeline)"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.0.git20211120"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/tfenne/pipebuffer/archive/9af1e18b38b9a62b054047e4131d4077cce101ae.tar.gz

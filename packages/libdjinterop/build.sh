@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/xsco/libdjinterop
 TERMUX_PKG_DESCRIPTION="C++ library for access to DJ record libraries"
 TERMUX_PKG_LICENSE="LGPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.27.0"
 TERMUX_PKG_SRCURL="https://github.com/xsco/libdjinterop/archive/refs/tags/$TERMUX_PKG_VERSION.tar.gz"
 TERMUX_PKG_SHA256=c4e73bf3907fd45be1c9767bcd9f367cbb7c279b4fe047bf2216bc92ae3d1668

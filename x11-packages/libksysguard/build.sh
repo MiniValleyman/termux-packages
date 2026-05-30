@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/plasma/libksysguard"
 TERMUX_PKG_DESCRIPTION="KSysGuard library provides API to read and manage processes running on the system"
 TERMUX_PKG_LICENSE="LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.6.5"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/plasma/${TERMUX_PKG_VERSION}/libksysguard-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=f088854a021028b7b0f6a735c89e9aa53bd13e903af11ed16a49c944e33b00df

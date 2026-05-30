@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.vapoursynth.com/
 TERMUX_PKG_DESCRIPTION="Video processing framework with simplicity in mind"
 TERMUX_PKG_LICENSE="LGPL-2.1-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="73"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="https://github.com/vapoursynth/vapoursynth/archive/refs/tags/R${TERMUX_PKG_VERSION}.tar.gz"

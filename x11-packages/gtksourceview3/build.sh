@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://wiki.gnome.org/Projects/GtkSourceView
 TERMUX_PKG_DESCRIPTION="A GNOME library that extends GtkTextView"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=3.24.11
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/gtksourceview/${TERMUX_PKG_VERSION%.*}/gtksourceview-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=691b074a37b2a307f7f48edc5b8c7afa7301709be56378ccf9cc9735909077fd

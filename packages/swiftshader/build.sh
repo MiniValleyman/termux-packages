@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://swiftshader.googlesource.com/SwiftShader
 TERMUX_PKG_DESCRIPTION="A high-performance CPU-based implementation of the Vulkan graphics API"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT_DATE=2025.06.25
 _COMMIT_HASH=436722b391188ad8c1d1d5dd2447c38ac7f71439
 TERMUX_PKG_VERSION=$_COMMIT_DATE

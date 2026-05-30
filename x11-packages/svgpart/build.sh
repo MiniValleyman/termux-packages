@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/graphics/svgpart"
 TERMUX_PKG_DESCRIPTION="A KPart for viewing SVGs"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later, LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="26.04.1"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/release-service/${TERMUX_PKG_VERSION}/src/svgpart-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256="a2accc400f0251d0be462b0d1d99cf2ba1bfb99ebf019b03dd2d60de9e152513"

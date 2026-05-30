@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://he.fi/bchunk/
 TERMUX_PKG_DESCRIPTION="Tool to convert .bin + .cue files to .iso files"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1.2.2
 TERMUX_PKG_SRCURL="http://he.fi/bchunk/bchunk-$TERMUX_PKG_VERSION.tar.gz"
 TERMUX_PKG_SHA256=e7d99b5b60ff0b94c540379f6396a670210400124544fb1af985dd3551eabd89

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/libraries/kquickimageeditor"
 TERMUX_PKG_DESCRIPTION="QML image editing components"
 TERMUX_PKG_LICENSE="LGPL-2.1-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.6.1"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/kquickimageeditor/kquickimageeditor-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=b868800bb9bb814ee36c9d696be9ccec9a22ab6f975d789e248b75fbd1ba99fa

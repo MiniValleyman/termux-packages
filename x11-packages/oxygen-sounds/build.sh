@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/plasma/oxygen-sounds"
 TERMUX_PKG_DESCRIPTION="The Oxygen Sound Theme by KDE"
 TERMUX_PKG_LICENSE="LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.6.5"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/plasma/${TERMUX_PKG_VERSION}/oxygen-sounds-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=4c648555fe7ccb9bcf46fb0b4452da85c5821201445eb72ec45b5d95e57942f6

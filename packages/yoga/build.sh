@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://www.yogalayout.dev/"
 TERMUX_PKG_DESCRIPTION="Embeddable layout engine targeting web standards"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.2.1"
 TERMUX_PKG_SRCURL="https://github.com/facebook/yoga/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256=86b399ac31fd820d8ffa823c3fae31bb690b6fc45301b2a8a966c09b5a088b55

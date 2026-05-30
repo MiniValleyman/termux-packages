@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.gaia-gis.it/fossil/freexl
 TERMUX_PKG_DESCRIPTION="Library to extract valid data from within an Excel (.xls) spreadsheet"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.0.0"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://www.gaia-gis.it/gaia-sins/freexl-sources/freexl-${TERMUX_PKG_VERSION}.tar.gz

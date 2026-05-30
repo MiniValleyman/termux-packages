@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://dev.lovelyhq.com/libburnia
 TERMUX_PKG_DESCRIPTION="Frontend for libraries libburn and libisofs"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.5.8"
 TERMUX_PKG_SRCURL=https://files.libburnia-project.org/releases/libisoburn-$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=dbb36620ceb8e959c88bf29994e2220ed501cc68cb9eea7d51f94881bc8c548e

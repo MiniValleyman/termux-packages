@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://xorg.freedesktop.org/
 TERMUX_PKG_DESCRIPTION="X.org Bitmap files"
 TERMUX_PKG_LICENSE="HPND"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.1.4"
 TERMUX_PKG_SRCURL=https://xorg.freedesktop.org/releases/individual/data/xbitmaps-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=895722f136e21e728c52f2d99fd2dae95018b9ddad1bac1f29d61bcd6593721d

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/nemtrif/utfcpp
 TERMUX_PKG_DESCRIPTION="UTF8-CPP: UTF-8 with C++ in a Portable Way"
 TERMUX_PKG_LICENSE="BSD"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1:4.1.1"
 TERMUX_PKG_SRCURL=https://github.com/nemtrif/utfcpp/archive/refs/tags/v${TERMUX_PKG_VERSION#*:}.tar.gz
 TERMUX_PKG_SHA256=1ca68016f0abc24172998e39ce0d8f8e2b7a26f7579a0ff85d4e1b9a7aea56f8

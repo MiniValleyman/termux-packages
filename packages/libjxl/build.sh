@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://jpegxl.info/
 TERMUX_PKG_DESCRIPTION="JPEG XL image format reference implementation"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.11.2"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/libjxl/libjxl/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://stockfishchess.org/
 TERMUX_PKG_DESCRIPTION="Free and strong UCI chess engine"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="18"
 TERMUX_PKG_SRCURL="https://github.com/official-stockfish/Stockfish/archive/refs/tags/sf_${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256=22a195567e3493e7c9ca8bf8fa2339f4ffc876384849ac8a417ff4b919607e7b

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/WebAssembly/wabt
 TERMUX_PKG_DESCRIPTION="The WebAssembly Binary Toolkit"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.0.41"
 TERMUX_PKG_SRCURL=https://github.com/WebAssembly/wabt/releases/download/${TERMUX_PKG_VERSION}/wabt-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=ca9e69cc1de13b4633a3c74fd697319303b21108529d4f10960af4e1f4a65893

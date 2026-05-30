@@ -6,7 +6,7 @@ TERMUX_PKG_LICENSE_FILE="
 LICENSE
 third_party/utf8_range/LICENSE
 "
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 # Please align the version and revision with `libprotobuf` package.
 TERMUX_PKG_VERSION=33.1
 TERMUX_PKG_SRCURL=https://github.com/protocolbuffers/protobuf/archive/v${TERMUX_PKG_VERSION}.tar.gz

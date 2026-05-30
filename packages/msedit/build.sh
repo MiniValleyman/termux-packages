@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://github.com/microsoft/edit"
 TERMUX_PKG_DESCRIPTION="A simple editor for simple needs (Microsoft Edit)"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.0.0"
 TERMUX_PKG_SRCURL="https://github.com/microsoft/edit/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256=f35da309c5f3d92b10e5c4b2267e4d5e29d809b2aa460e80326b11f7feba72a5

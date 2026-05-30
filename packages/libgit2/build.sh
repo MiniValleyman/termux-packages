@@ -3,7 +3,7 @@ TERMUX_PKG_DESCRIPTION="C library implementing Git core methods"
 # License: GPL-2.0 with linking exception
 TERMUX_PKG_LICENSE="GPL-2.0"
 TERMUX_PKG_LICENSE_FILE="COPYING"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.9.4"
 TERMUX_PKG_SRCURL=https://github.com/libgit2/libgit2/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=824b73bd13647800fe4b566a1008ae77fea0e3e3424edab632fcfd8c0b14ba8b

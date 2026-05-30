@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://apps.kde.org/kget/"
 TERMUX_PKG_DESCRIPTION="Download Manager by KDE"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later, LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="26.04.1"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/release-service/${TERMUX_PKG_VERSION}/src/kget-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=a2b5a6ac9ead7beea32183b1f9ddb74ef59204b0daf1f78ff50b7dc3f9e4e36d

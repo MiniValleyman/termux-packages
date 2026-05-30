@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE='https://invent.kde.org/frameworks/qqc2-desktop-style'
 TERMUX_PKG_DESCRIPTION='A style for Qt Quick Controls 2 to make it follow your desktop theme'
 TERMUX_PKG_LICENSE="LGPL-2.0, LGPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.26.0"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/frameworks/${TERMUX_PKG_VERSION%.*}/qqc2-desktop-style-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=1805fa31355ff86c02158fd2b8d396fd88835d01db97d8700314c48ee3360986

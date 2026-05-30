@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://poppler.freedesktop.org/
 TERMUX_PKG_DESCRIPTION="Poppler Qt wrapper"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 # Please align the version with `poppler` package.
 TERMUX_PKG_VERSION="26.02.0"
 TERMUX_PKG_SRCURL="https://poppler.freedesktop.org/poppler-${TERMUX_PKG_VERSION}.tar.xz"

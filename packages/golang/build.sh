@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://go.dev/
 TERMUX_PKG_DESCRIPTION="Go programming language compiler"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3:1.26.3"
 TERMUX_PKG_SRCURL=https://go.dev/dl/go${TERMUX_PKG_VERSION#*:}.src.tar.gz
 TERMUX_PKG_SHA256=1c646875d0aa8799133184ed57cf79ff24bdefe8c8820470602a9d3d6d9192b8

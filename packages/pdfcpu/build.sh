@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://pdfcpu.io"
 TERMUX_PKG_DESCRIPTION="A PDF processor written in Go"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.12.1"
 TERMUX_PKG_SRCURL="https://github.com/pdfcpu/pdfcpu/archive/refs/tags/v$TERMUX_PKG_VERSION.tar.gz"
 TERMUX_PKG_SHA256=a15d61b50e432b90b435e59728fde241fdcb745eba06f437cbf106aafc7ff2d0

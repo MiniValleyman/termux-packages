@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/frameworks/baloo"
 TERMUX_PKG_DESCRIPTION="A framework for searching and managing metadata"
 TERMUX_PKG_LICENSE="LGPL-2.0-only, LGPL-3.0-only"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.26.0"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/frameworks/${TERMUX_PKG_VERSION%.*}/baloo-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=702f5b868aaef48153c6c3828111b3b335403079491a8f37043ebd89c6995b30

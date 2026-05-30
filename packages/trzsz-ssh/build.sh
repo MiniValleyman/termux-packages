@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://trzsz.github.io/ssh
 TERMUX_PKG_DESCRIPTION="An openssh client alternative"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.1.25"
 TERMUX_PKG_SRCURL=https://github.com/trzsz/trzsz-ssh/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=9a692854733333643b6108f68bed0239b266c461e15125781503d957c9b47842

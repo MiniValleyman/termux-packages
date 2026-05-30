@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://www.lxde.org/
 TERMUX_PKG_DESCRIPTION="VTE-based terminal emulator"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.4.1"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="https://github.com/lxde/lxterminal/archive/refs/tags/$TERMUX_PKG_VERSION.tar.gz"

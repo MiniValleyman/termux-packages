@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://mruby.org/
 TERMUX_PKG_DESCRIPTION="Lightweight implementation of the Ruby language"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="4.0.0"
 TERMUX_PKG_SRCURL=https://github.com/mruby/mruby/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=e2ea271dbed14e9f2b33df773ae447b747dbc242ce2675022c0a57efea85a7b4

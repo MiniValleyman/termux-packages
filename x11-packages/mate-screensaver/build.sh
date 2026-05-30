@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://mate-desktop.org/
 TERMUX_PKG_DESCRIPTION="Screensaver for MATE"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.28.1"
 TERMUX_PKG_SRCURL="https://github.com/mate-desktop/mate-screensaver/releases/download/v$TERMUX_PKG_VERSION/mate-screensaver-$TERMUX_PKG_VERSION.tar.xz"
 TERMUX_PKG_SHA256=a20d49bcf4e577287c0cd78596158923c729d6370b6da19a98ac655b029cce36

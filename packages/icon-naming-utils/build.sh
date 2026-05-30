@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://tango.freedesktop.org/
 TERMUX_PKG_DESCRIPTION="Maps the new names of icons for Tango to the legacy names used by the GNOME and KDE desktops"
 TERMUX_PKG_LICENSE="GPL-2.0-only"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.8.90"
 TERMUX_PKG_SRCURL="https://tango.freedesktop.org/releases/icon-naming-utils-$TERMUX_PKG_VERSION.tar.gz"
 TERMUX_PKG_SHA256=044ab2199ed8c6a55ce36fd4fcd8b8021a5e21f5bab028c0a7cdcf52a5902e1c

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.isc.org/bind/
 TERMUX_PKG_DESCRIPTION="Clients provided with BIND"
 TERMUX_PKG_LICENSE="MPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="9.20.23"
 TERMUX_PKG_SRCURL="https://downloads.isc.org/isc/bind9/${TERMUX_PKG_VERSION}/bind-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=5d4475aed3f9e500ef554b2b14d972bdb83d33de214a9b3be92918ea46908371

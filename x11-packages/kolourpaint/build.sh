@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/graphics/kolourpaint"
 TERMUX_PKG_DESCRIPTION="Paint Program"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later, LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="26.04.1"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/release-service/${TERMUX_PKG_VERSION}/src/kolourpaint-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256="2225d194b2af7498c40a2c68426b8c28dfc0beb83dc5b93de93e50b3e4d76609"

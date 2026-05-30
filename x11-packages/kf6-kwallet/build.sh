@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE='https://invent.kde.org/frameworks/kwallet'
 TERMUX_PKG_DESCRIPTION='Secure and unified container for user passwords'
 TERMUX_PKG_LICENSE="LGPL-2.0, LGPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.26.0"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/frameworks/${TERMUX_PKG_VERSION%.*}/kwallet-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=2321f8591f1f225d3d7253fae9ee61d0789db231b3eeae6a5f8a14c013531389

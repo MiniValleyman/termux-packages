@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE='https://invent.kde.org/frameworks/kfilemetadata'
 TERMUX_PKG_DESCRIPTION='A library for extracting file metadata'
 TERMUX_PKG_LICENSE="LGPL-2.0, LGPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.26.0"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/frameworks/${TERMUX_PKG_VERSION%.*}/kfilemetadata-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=f75942b9a3d1be0b0910cd50a22c3c432ededdc506858c8d5511ddf5498051f2

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/luvit/luv
 TERMUX_PKG_DESCRIPTION="Bare libuv bindings for lua"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.52.1-0"
 TERMUX_PKG_SRCURL=https://github.com/luvit/luv/releases/download/$TERMUX_PKG_VERSION/luv-$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=3e6eb820a3aee034f85f9cce9bd77b5d42f34d128a1ccec877adf28c913577c7

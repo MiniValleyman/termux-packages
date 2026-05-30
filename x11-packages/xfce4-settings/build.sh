@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://docs.xfce.org/xfce/xfce4-settings/start
 TERMUX_PKG_DESCRIPTION="Settings manager for XFCE environment"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="4.20.4"
 TERMUX_PKG_SRCURL=https://archive.xfce.org/src/xfce/xfce4-settings/${TERMUX_PKG_VERSION%.*}/xfce4-settings-${TERMUX_PKG_VERSION}.tar.bz2
 TERMUX_PKG_SHA256=ad5c3c5bfb36f5eb091c05897d60f468d0d5cc4364c8d1d38ca53d8bb04387da

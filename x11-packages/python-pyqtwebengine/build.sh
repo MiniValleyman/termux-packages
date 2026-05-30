@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.riverbankcomputing.com/software/pyqtwebengine/
 TERMUX_PKG_DESCRIPTION="Python Bindings for the Qt WebEngine Framework"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="5.15.7"
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://files.pythonhosted.org/packages/source/P/PyQtWebEngine/PyQtWebEngine-${TERMUX_PKG_VERSION}.tar.gz

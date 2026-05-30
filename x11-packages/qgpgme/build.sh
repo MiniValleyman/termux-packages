@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://gnupg.org/software/gpgme/index.html"
 TERMUX_PKG_DESCRIPTION="Qt bindings for GPGME"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.1.0"
 TERMUX_PKG_SRCURL="https://github.com/gpg/gpgmeqt/archive/refs/tags/gpgmeqt-${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256=5318396f42fb4cc9021a8ac3db1c01a51652550e6f6d7fe7f181bef3dbe199b0

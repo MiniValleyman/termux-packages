@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://nmon.sourceforge.net/
 TERMUX_PKG_DESCRIPTION="Curses based Performance Monitor for Linux with saving performance stats to a CSV file mode"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="16s"
 TERMUX_PKG_SRCURL=https://downloads.sourceforge.net/nmon/lmon${TERMUX_PKG_VERSION}.c
 TERMUX_PKG_SHA256=0736ce0f729e48c124a7ba566c069c5a234511cc9c6ac9277da92f8bb44f2b11

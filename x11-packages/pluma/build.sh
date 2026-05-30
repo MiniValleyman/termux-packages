@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://mate-desktop.org/
 TERMUX_PKG_DESCRIPTION="Powerful text editor for MATE"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.28.1"
 TERMUX_PKG_SRCURL="https://github.com/mate-desktop/pluma/releases/download/v$TERMUX_PKG_VERSION/pluma-$TERMUX_PKG_VERSION.tar.xz"
 TERMUX_PKG_SHA256=27137ff1bb1c53a90d2308b8a6b203e5d07f13a644a0d950f3ead7bb9cf1e241

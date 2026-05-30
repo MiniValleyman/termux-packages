@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://apps.gnome.org/Amberol/"
 TERMUX_PKG_DESCRIPTION="Small and simple sound and music player that is well integrated with GNOME"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2026.1"
 TERMUX_PKG_SRCURL="https://gitlab.gnome.org/World/amberol/-/archive/${TERMUX_PKG_VERSION}/amberol-${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256="2112eebac5c7b0aab7243c428c794aecb136168c326648cfbbd8654ea2cc7631"

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://audacious-media-player.org
 TERMUX_PKG_DESCRIPTION="An advanced audio player"
 TERMUX_PKG_LICENSE="BSD 2-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="4.5.1"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_AUTO_UPDATE=true

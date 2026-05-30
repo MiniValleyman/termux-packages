@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://git.outfoxxed.me/quickshell/quickshell"
 TERMUX_PKG_DESCRIPTION="Flexible toolkit for making desktop shells with QtQuick"
 TERMUX_PKG_LICENSE="LGPL-3.0-only"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.3.0"
 TERMUX_PKG_SRCURL="https://github.com/quickshell-mirror/quickshell/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256="5229069b0f1d375f34b0a04a4e6a69156e2f010995d9ec5a943793424e589b5d"

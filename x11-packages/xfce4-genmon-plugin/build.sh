@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://docs.xfce.org/panel-plugins/xfce4-genmon-plugin
 TERMUX_PKG_DESCRIPTION="Display cyclically run script or program output onto the panel"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="4.3.0"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://archive.xfce.org/src/panel-plugins/xfce4-genmon-plugin/${TERMUX_PKG_VERSION%.*}/xfce4-genmon-plugin-${TERMUX_PKG_VERSION}.tar.xz

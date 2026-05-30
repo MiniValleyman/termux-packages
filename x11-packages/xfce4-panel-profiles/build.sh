@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://docs.xfce.org/apps/xfce4-panel-profiles/start
 TERMUX_PKG_DESCRIPTION="A simple application to manage Xfce panel layouts."
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.1.1"
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL="https://archive.xfce.org/src/apps/xfce4-panel-profiles/${TERMUX_PKG_VERSION%.*}/xfce4-panel-profiles-${TERMUX_PKG_VERSION}.tar.xz"

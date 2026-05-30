@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://dia-installer.de
 TERMUX_PKG_DESCRIPTION="Diagram editor, compatible with Micrososft Visio"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=ea793ab3eb2e5dc50e5191d782d222e15de1eccc
 TERMUX_PKG_VERSION="0.97.2-p20260216"
 TERMUX_PKG_SRCURL=git+https://gitlab.gnome.org/GNOME/dia

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/plasma/qqc2-breeze-style"
 TERMUX_PKG_DESCRIPTION="Applications useful for Plasma development"
 TERMUX_PKG_LICENSE="LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.6.5"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/plasma/${TERMUX_PKG_VERSION}/qqc2-breeze-style-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=8d279f966903219721941ea9f41681630dc14fa45769d9c672c57493f6c99603

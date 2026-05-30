@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://github.com/tj/git-extras"
 TERMUX_PKG_DESCRIPTION="Little git extras."
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="7.5.0"
 TERMUX_PKG_SRCURL=https://github.com/tj/git-extras/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=bcfe0eabdccc806e53a10130fed6fb02373720ddeb670eecc5cc84d041d79880

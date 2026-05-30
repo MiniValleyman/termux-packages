@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.nerdfonts.com/
 TERMUX_PKG_DESCRIPTION="Symbols-only font containing the Nerd Font icons"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=3.4.0
 TERMUX_PKG_SRCURL=https://github.com/ryanoasis/nerd-fonts/releases/download/v$TERMUX_PKG_VERSION/NerdFontsSymbolsOnly.zip
 TERMUX_PKG_SHA256=8e617904b980fe3648a4b116808788fe50c99d2d495376cb7c0badbd8a564c47

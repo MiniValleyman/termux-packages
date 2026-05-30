@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE='https://invent.kde.org/frameworks/purpose'
 TERMUX_PKG_DESCRIPTION='Framework for providing abstractions to get the developers purposes fulfilled'
 TERMUX_PKG_LICENSE="LGPL-2.0, LGPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.26.0"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/frameworks/${TERMUX_PKG_VERSION%.*}/purpose-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=cc7b7599d1ac7ce7ed07351a35d742fac1b7e554b208a7b1c92e859b3b4add30

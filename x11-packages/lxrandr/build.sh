@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://www.lxde.org/
 TERMUX_PKG_DESCRIPTION="LXDE monitor configuration tool"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.3.3"
 TERMUX_PKG_SRCURL="https://github.com/lxde/lxrandr/archive/refs/tags/$TERMUX_PKG_VERSION.tar.gz"
 TERMUX_PKG_SHA256=24d0abaee830b0b2973ba9d2e46b3c801445342f7d5d3297c021a8a4a471f512

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://github.com/fcitx/fcitx5-rime"
 TERMUX_PKG_DESCRIPTION="RIME support for Fcitx5"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="5.1.13"
 TERMUX_PKG_SRCURL="https://github.com/fcitx/fcitx5-rime/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256=e71469d15a2530cbb4d35a37d6c86d850eb9e5e230ed1ba7979c02c4e22516d5

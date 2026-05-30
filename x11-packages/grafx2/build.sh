@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.com/GrafX2/grafX2
 TERMUX_PKG_DESCRIPTION="The Ultimate 256-color bitmap paint program"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=e6ee44e579defed0ad8a005bed475fd8ea433788
 _COMMIT_DATE=20260424
 TERMUX_PKG_VERSION="2.9-p${_COMMIT_DATE}"

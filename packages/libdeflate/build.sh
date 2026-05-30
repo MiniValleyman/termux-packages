@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/ebiggers/libdeflate
 TERMUX_PKG_DESCRIPTION="C library for fast compression and decompression"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.25"
 TERMUX_PKG_SRCURL=https://github.com/ebiggers/libdeflate/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=d11473c1ad4c57d874695e8026865e38b47116bbcb872bfc622ec8f37a86017d

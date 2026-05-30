@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://libwpg.sourceforge.net/
 TERMUX_PKG_DESCRIPTION="Library for importing and converting Corel WordPerfect(tm) Graphics images."
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.3.4"
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL="https://downloads.sourceforge.net/libwpg/libwpg-${TERMUX_PKG_VERSION}.tar.xz"

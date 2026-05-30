@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/Microsoft/GSL
 TERMUX_PKG_DESCRIPTION="Guidelines Support Library"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="4.2.2"
 TERMUX_PKG_SRCURL="https://github.com/microsoft/GSL/archive/refs/tags/v$TERMUX_PKG_VERSION.tar.gz"
 TERMUX_PKG_SHA256=59e2a0a0ea22e8bcf9db2dc4d4bd21212ac6595748295fc27a7e02cf75eac4b5

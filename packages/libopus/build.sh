@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.opus-codec.org/
 TERMUX_PKG_DESCRIPTION="Reference implementation of the Opus codec"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1.6.1
 TERMUX_PKG_SRCURL=https://downloads.xiph.org/releases/opus/opus-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=6ffcb593207be92584df15b32466ed64bbec99109f007c82205f0194572411a1

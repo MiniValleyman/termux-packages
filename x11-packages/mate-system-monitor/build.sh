@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://mate-desktop.org/
 TERMUX_PKG_DESCRIPTION="Process viewer and system resource monitor for MATE"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.28.1"
 TERMUX_PKG_SRCURL="https://github.com/mate-desktop/mate-system-monitor/releases/download/v$TERMUX_PKG_VERSION/mate-system-monitor-$TERMUX_PKG_VERSION.tar.xz"
 TERMUX_PKG_SHA256=42d663d6b90fb5361ebc13f6547983d6f1e2ac75dc2ae4f1cac6ea6329965a25

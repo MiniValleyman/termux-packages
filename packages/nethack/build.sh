@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://www.nethack.org/
 TERMUX_PKG_DESCRIPTION="Dungeon crawl game"
 TERMUX_PKG_LICENSE="Nethack"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=3.6.7
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://www.nethack.org/download/${TERMUX_PKG_VERSION}/nethack-${TERMUX_PKG_VERSION//./}-src.tgz

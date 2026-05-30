@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://beyondgrep.com/
 TERMUX_PKG_DESCRIPTION="Tool like grep optimized for programmers"
 TERMUX_PKG_LICENSE="Artistic-License-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=(3.9.0
 					1.18)
 TERMUX_PKG_REVISION=1

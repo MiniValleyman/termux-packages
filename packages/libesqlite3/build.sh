@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://github.com/ericsink/SQLitePCL.raw"
 TERMUX_PKG_DESCRIPTION="SQLitePCLRaw is a Portable Class Library for low-level access to SQLite (native library)"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT="cd2922b8867e4360f0976601414bd24a3ad613d8"
 _COMMIT_DATE="20250307"
 TERMUX_PKG_VERSION="3.49.1.$_COMMIT_DATE"

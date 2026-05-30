@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://p11-glue.github.io/p11-glue/p11-kit.html"
 TERMUX_PKG_DESCRIPTION="Provides a way to load and enumerate PKCS#11 modules"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.26.2"
 TERMUX_PKG_SRCURL="https://github.com/p11-glue/p11-kit/releases/download/$TERMUX_PKG_VERSION/p11-kit-$TERMUX_PKG_VERSION.tar.xz"
 TERMUX_PKG_SHA256=09fd9f44da4813a3141e73d5e7cf7008e5660d0405f13d56c15e1da9dcecf828

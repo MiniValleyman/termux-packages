@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://mate-desktop.org/
 TERMUX_PKG_DESCRIPTION="Notification daemon for MATE"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.28.5"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="https://github.com/mate-desktop/mate-notification-daemon/releases/download/v$TERMUX_PKG_VERSION/mate-notification-daemon-$TERMUX_PKG_VERSION.tar.xz"

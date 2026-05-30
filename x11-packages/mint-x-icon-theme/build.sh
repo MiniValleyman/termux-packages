@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/linuxmint/mint-x-icons
 TERMUX_PKG_DESCRIPTION="The Mint-X icon theme for cinnamon"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.7.6"
 TERMUX_PKG_SRCURL=https://github.com/linuxmint/mint-x-icons/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=a072405b0d15951416af7ab671dde79dc96d09e98ab6430dd07cca2e329f1a18

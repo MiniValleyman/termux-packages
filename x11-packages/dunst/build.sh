@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://dunst-project.org/
 TERMUX_PKG_DESCRIPTION="Lightweight and customizable notification daemon"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.13.2"
 TERMUX_PKG_SRCURL="https://github.com/dunst-project/dunst/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256=c68645cecef4a45840cd67c19a18a3a21ecae6b331e9864c2b745c31aee5fc85

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://wiki.gnome.org/Apps/Terminal
 TERMUX_PKG_DESCRIPTION="Terminal emulator for GNOME"
 TERMUX_PKG_LICENSE="GPL-3.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.60.0"
 TERMUX_PKG_SRCURL="https://download.gnome.org/sources/gnome-terminal/${TERMUX_PKG_VERSION%.*}/gnome-terminal-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=b8daf3f08545172c4d2885733f720361ab0349ea669b99245eed4ad16ed3de28

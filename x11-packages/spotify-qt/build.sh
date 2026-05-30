@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/kraxarn/spotify-qt
 TERMUX_PKG_DESCRIPTION="Lightweight Spotify client using Qt"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="4.0.4"
 TERMUX_PKG_SRCURL=https://github.com/kraxarn/spotify-qt/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=10656f4c980c8d4b90f11879a6a58fe542e8b0ef1212297a700bcde3d9a6e396

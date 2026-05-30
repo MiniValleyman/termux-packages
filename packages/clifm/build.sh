@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/leo-arch/clifm
 TERMUX_PKG_DESCRIPTION="The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.28"
 TERMUX_PKG_SRCURL=https://github.com/leo-arch/clifm/releases/download/v${TERMUX_PKG_VERSION}/clifm-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=65ac33825fb55d6388c1044572e464a50ad367b607448774fb396d850b7c4420

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://ice-wm.org/
 TERMUX_PKG_DESCRIPTION="Window manager with goals of speed, simplicity, and usability"
 TERMUX_PKG_LICENSE="LGPL-2.0-only"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="4.0.0"
 TERMUX_PKG_SRCURL="https://github.com/ice-wm/icewm/releases/download/$TERMUX_PKG_VERSION/icewm-$TERMUX_PKG_VERSION.tar.lz"
 TERMUX_PKG_SHA256=b8b22a2f0460c51f92ba785102bd122707966a618bb872c95fa6e6801d620cd1

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://jellyfin.org"
 TERMUX_PKG_DESCRIPTION="A free media system for organizing and streaming media (server)"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=(
 	10.11.5
 	7.1.3.1

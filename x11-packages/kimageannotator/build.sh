@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/ksnip/kImageAnnotator
 TERMUX_PKG_DESCRIPTION="Tool for annotating images"
 TERMUX_PKG_LICENSE="LGPL-3.0-only"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.7.2"
 TERMUX_PKG_SRCURL="https://github.com/ksnip/kImageAnnotator/archive/refs/tags/v$TERMUX_PKG_VERSION.tar.gz"
 TERMUX_PKG_SHA256=7eb593d975b1590a184354ef68dbc3c26479d58eaea00de461d73695176f623c

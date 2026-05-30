@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.gtkmm.org/
 TERMUX_PKG_DESCRIPTION="The C++ API for GTK"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.24.10"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/gtkmm/${TERMUX_PKG_VERSION%.*}/gtkmm-${TERMUX_PKG_VERSION}.tar.xz

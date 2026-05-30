@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://simulide.com/p/
 TERMUX_PKG_DESCRIPTION="Simple real time electronic circuit simulator"
 TERMUX_PKG_LICENSE="AGPL-V3"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=13cb963d9aae083b22e3446fafdfbcb1a3af7310
 TERMUX_PKG_VERSION=2025.10.29
 TERMUX_PKG_SRCURL=git+https://github.com/eeTools/SimulIDE-dev

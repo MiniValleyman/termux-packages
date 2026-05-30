@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.praat.org
 TERMUX_PKG_DESCRIPTION="Doing phonetics by computer"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.4.65"
 TERMUX_PKG_SRCURL=https://github.com/praat/praat/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=bb3f9c520f93f4786903d59d7f64acdc4704d40ed88b4bbfd52ec75f07be6182

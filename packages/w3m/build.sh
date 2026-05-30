@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://git.sr.ht/~rkta/w3m
 TERMUX_PKG_DESCRIPTION="Text based Web browser and pager"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.5.6"
 TERMUX_PKG_REVISION=1
 # The upstream w3m project is dead, this is the fork shipped by e.g. Arch Linux.

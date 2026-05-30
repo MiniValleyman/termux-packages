@@ -6,7 +6,7 @@ TERMUX_PKG_LICENSE_FILE="
 LICENSE
 third_party/utf8_range/LICENSE
 "
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 # When bumping version:
 # - update SHA256 checksum for $_PROTOBUF_ZIP in
 #     $TERMUX_SCRIPTDIR/scripts/build/setup/termux_setup_protobuf.sh

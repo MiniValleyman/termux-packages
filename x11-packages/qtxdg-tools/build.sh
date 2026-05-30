@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://github.com/lxqt/qtxdg-tools"
 TERMUX_PKG_DESCRIPTION="CLI tools for libqtxdg."
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="4.4.0"
 TERMUX_PKG_SRCURL="https://github.com/lxqt/qtxdg-tools/releases/download/${TERMUX_PKG_VERSION}/qtxdg-tools-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=f21ba4308eac0effd417d910cc4916df7b6202aaeee777b51bb120f7abc6c5ac

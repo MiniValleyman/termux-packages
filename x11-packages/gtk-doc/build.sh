@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.gnome.org/GNOME/gtk-doc
 TERMUX_PKG_DESCRIPTION="GTK+ DocBook Documentation Generator"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.36.1"
 TERMUX_PKG_SRCURL=https://gitlab.gnome.org/GNOME/gtk-doc/-/archive/${TERMUX_PKG_VERSION}/gtk-doc-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=9e5f6dd212ca2c31bd0ee804ba9672f00d30cad12c03f9aba9d15e9f74134dc4

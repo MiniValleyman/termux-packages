@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://xorg.freedesktop.org/
 TERMUX_PKG_DESCRIPTION="X11 miscellaneous micro-utility library"
 TERMUX_PKG_LICENSE="MIT, HPND, ISC"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.3.1"
 TERMUX_PKG_SRCURL=https://xorg.freedesktop.org/releases/individual/lib/libXmu-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=81a99e94c4501e81c427cbaa4a11748b584933e94b7a156830c3621256857bc4

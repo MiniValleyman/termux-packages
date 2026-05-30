@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/AyatanaIndicators/libayatana-indicator
 TERMUX_PKG_DESCRIPTION="Ayatana Indicators Shared Library"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.9.4"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/AyatanaIndicators/libayatana-indicator/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz

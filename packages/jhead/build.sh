@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://www.sentex.net/~mwandel/jhead/
 TERMUX_PKG_DESCRIPTION="Exif Jpeg header manipulation tool"
 TERMUX_PKG_LICENSE="Public Domain"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=3.08
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/Matthias-Wandel/jhead/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz

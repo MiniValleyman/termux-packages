@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/abishekvashok/cmatrix
 TERMUX_PKG_DESCRIPTION="Command producing a Matrix-style animation"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=2.0
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/abishekvashok/cmatrix/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

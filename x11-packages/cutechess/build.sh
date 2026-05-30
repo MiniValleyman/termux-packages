@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://cutechess.com/
 TERMUX_PKG_DESCRIPTION="Graphical user interface, command-line interface and library for playing chess"
 TERMUX_PKG_LICENSE="GPL-3.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.4.0"
 TERMUX_PKG_SRCURL="https://github.com/cutechess/cutechess/archive/refs/tags/v$TERMUX_PKG_VERSION.tar.gz"
 TERMUX_PKG_SHA256=7adf8e8d867c13acf5273b568a39bf9d0d722d3de0141cea953e624f8839b506

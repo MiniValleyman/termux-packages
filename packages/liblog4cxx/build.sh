@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://logging.apache.org/log4cxx/latest_stable/index.html"
 TERMUX_PKG_DESCRIPTION="A logging framework for C++ patterned after Apache log4j"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.7.0"
 TERMUX_PKG_SRCURL="https://github.com/apache/logging-log4cxx/archive/refs/tags/rel/v$TERMUX_PKG_VERSION.tar.gz"
 TERMUX_PKG_SHA256=f4457bf3e6070bfa69689d44639f73e98d9bdb2324c7fe3cd5e949ec5902a2ba

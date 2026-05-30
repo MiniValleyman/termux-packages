@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/frameworks/kcmutils"
 TERMUX_PKG_DESCRIPTION="Utilities for interacting with KCModules"
 TERMUX_PKG_LICENSE="LGPL-2.0-only, LGPL-3.0-only"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.26.0"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/frameworks/${TERMUX_PKG_VERSION%.*}/kcmutils-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=6d0810649b71528124cdf9dbdeb8b3c6c6d31d787325ca3e4a20c536ecbdf2d9

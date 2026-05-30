@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/any1/wayvnc
 TERMUX_PKG_DESCRIPTION="A VNC server for wlroots based Wayland compositors"
 TERMUX_PKG_LICENSE="ISC"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.10.0"
 TERMUX_PKG_SRCURL=https://github.com/any1/wayvnc/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=fcfda018d0e07ec00a80071420c8cc2a75885dc6d5e55bb50a9b12353754338f

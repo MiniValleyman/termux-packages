@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/emacs-exwm/exwm
 TERMUX_PKG_DESCRIPTION="Emacs X Window Manager"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.34"
 TERMUX_PKG_SRCURL="https://github.com/emacs-exwm/exwm/archive/refs/tags/$TERMUX_PKG_VERSION.tar.gz"
 TERMUX_PKG_SHA256=ebe730bbda5bce75baf4532173171a9283a58684e7ec84192ba03c3d8328cf0a

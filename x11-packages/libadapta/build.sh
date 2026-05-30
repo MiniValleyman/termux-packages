@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/xapp-project/libadapta
 TERMUX_PKG_DESCRIPTION="libAdapta is libAdwaita with theme support and a few extra"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.5.0"
 TERMUX_PKG_SRCURL="https://github.com/xapp-project/libadapta/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256=725daa7433497b3ae541ba72fe7a075ec1a99693c5598a6c56706f0c3a1f26c9

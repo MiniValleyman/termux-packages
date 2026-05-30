@@ -9,7 +9,7 @@ LICENSES/SNAPPY.txt
 LICENSES/STDINT.txt
 LICENSES/ZLIB-NG.txt
 LICENSES/ZLIB.txt"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.21.6"
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://github.com/Blosc/c-blosc/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

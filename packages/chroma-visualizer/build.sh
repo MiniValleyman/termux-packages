@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/yuri-xyz/chroma.git
 TERMUX_PKG_DESCRIPTION="Shader-based audio visualizer for the terminal"
 TERMUX_PKG_LICENSE="GPL-3.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.0.0+g3c32e7d"
 TERMUX_PKG_SRCURL="https://github.com/yuri-xyz/chroma/archive/${TERMUX_PKG_VERSION##*+g}.tar.gz"
 TERMUX_PKG_SHA256=464789449f261051f194ef44c0d71c3e9e139e6e9effa63ee7787a9c6fa91350

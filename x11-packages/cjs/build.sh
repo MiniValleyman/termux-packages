@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/linuxmint/cjs
 TERMUX_PKG_DESCRIPTION="JavaScript Bindings for Cinnamon"
 TERMUX_PKG_LICENSE="MIT, LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="128.1"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="https://github.com/linuxmint/cjs/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz"

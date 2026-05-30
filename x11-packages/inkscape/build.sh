@@ -13,7 +13,7 @@ LICENSES/LGPL-3.0-or-later.txt,
 LICENSES/MPL-1.1.txt,
 LICENSES/OFL-1.1.txt
 "
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.4.4"
 TERMUX_PKG_SRCURL="https://media.inkscape.org/dl/resources/file/inkscape-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=bbce5753a1e08b871a5cf16c665eb060700aaab9a6a379dc63f4c4d9b3b8856e

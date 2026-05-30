@@ -2,7 +2,7 @@ TERMUX_PKG_HOMEPAGE=https://libclc.llvm.org/
 TERMUX_PKG_DESCRIPTION="Open source implementation of the library requirements of the OpenCL C programming language"
 TERMUX_PKG_LICENSE="Apache-2.0, NCSA"
 TERMUX_PKG_LICENSE_FILE="libclc/LICENSE.TXT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=(
 	21.1.3
 	21.1.1

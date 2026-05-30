@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://docs.xfce.org/xfce/libxfce4ui/start
 TERMUX_PKG_DESCRIPTION="Commonly used XFCE widgets among XFCE applications"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="4.20.2"
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://archive.xfce.org/src/xfce/libxfce4ui/${TERMUX_PKG_VERSION%.*}/libxfce4ui-${TERMUX_PKG_VERSION}.tar.bz2

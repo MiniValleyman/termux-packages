@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/any1/aml
 TERMUX_PKG_DESCRIPTION="Andri's Main Loop library"
 TERMUX_PKG_LICENSE="ISC"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.0.0"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/any1/aml/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

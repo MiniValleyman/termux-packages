@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.lcdf.org/gifsicle/
 TERMUX_PKG_DESCRIPTION="Tool for creating, editing, and getting information about GIF images and animations"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.96"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://www.lcdf.org/gifsicle/gifsicle-${TERMUX_PKG_VERSION}.tar.gz

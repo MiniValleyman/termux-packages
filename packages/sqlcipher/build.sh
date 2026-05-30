@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/sqlcipher/sqlcipher
 TERMUX_PKG_DESCRIPTION="SQLCipher is an SQLite extension that provides 256 bit AES encryption of database files"
 TERMUX_PKG_LICENSE="BSD"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="4.16.0"
 TERMUX_PKG_SRCURL="https://github.com/sqlcipher/sqlcipher/archive/refs/tags/v$TERMUX_PKG_VERSION.tar.gz"
 TERMUX_PKG_SHA256=d687bf981199ac019c6c87b11f92a5900aec777855e7ba5b30e5e1192933ce8a

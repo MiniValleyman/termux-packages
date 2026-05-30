@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://apps.kde.org/konqueror/"
 TERMUX_PKG_DESCRIPTION="KDE File Manager & Web Browser"
 TERMUX_PKG_LICENSE="LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="26.04.1"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/release-service/${TERMUX_PKG_VERSION}/src/konqueror-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=0049726058e323d46fd1eb6271b30cae6289d828baa4508db60ab0b2f477a4f9

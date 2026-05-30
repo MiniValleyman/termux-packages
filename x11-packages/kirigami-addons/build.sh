@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/libraries/kirigami-addons"
 TERMUX_PKG_DESCRIPTION="Add-ons for the Kirigami framework"
 TERMUX_PKG_LICENSE="LGPL-2.0, LGPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.12.1"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/kirigami-addons/kirigami-addons-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=c543a493ce5875f405fb1c9ff6d531060ed082cc6d710e56d46ac42d164207bb

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/libraries/pulseaudio-qt"
 TERMUX_PKG_DESCRIPTION="Qt bindings for libpulse"
 TERMUX_PKG_LICENSE="LGPL-2.1-only, LGPL-3.0-only"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.8.1"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/pulseaudio-qt/pulseaudio-qt-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=79619c55b94808aa7d307fb234ad39a1096d088f21f806be0e788be79a76b3c9

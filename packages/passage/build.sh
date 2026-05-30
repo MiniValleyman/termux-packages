@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/FiloSottile/passage
 TERMUX_PKG_DESCRIPTION="A fork of password-store that uses age as backend"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1.7.4a2
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/FiloSottile/passage/archive/refs/tags/$TERMUX_PKG_VERSION.tar.gz

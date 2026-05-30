@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://github.com/mop-tracker/mop"
 TERMUX_PKG_DESCRIPTION="Stock market tracker"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=0e9bd17e0b2899c11bbd3b62db387e81ac61ea30
 _COMMIT_DATE=20250317
 TERMUX_PKG_VERSION="2025.03.17"

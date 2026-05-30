@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://jmvalin.ca/demo/rnnoise/
 TERMUX_PKG_DESCRIPTION="RNN-based noise suppression"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.2
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://gitlab.xiph.org/xiph/rnnoise/-/archive/v$TERMUX_PKG_VERSION/rnnoise-v$TERMUX_PKG_VERSION.tar.gz

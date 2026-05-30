@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://kde.org/plasma-desktop
 TERMUX_PKG_DESCRIPTION="Plasma Specific Protocols for Wayland"
 TERMUX_PKG_LICENSE="LGPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.21.0"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/plasma-wayland-protocols/plasma-wayland-protocols-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=698a7b28b711270314e396e248ae86087cfeaed01372009063995be6e1dc85ba

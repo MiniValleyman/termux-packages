@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/JFreegman/toxic
 TERMUX_PKG_DESCRIPTION="A command line client for Tox"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.16.2"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/JFreegman/toxic/archive/refs/tags/v${TERMUX_PKG_VERSION}/toxic-${TERMUX_PKG_VERSION}.tar.gz

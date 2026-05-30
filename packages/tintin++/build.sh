@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://tintin.mudhalla.net
 TERMUX_PKG_DESCRIPTION="Classic text-based MUD client"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.02.61"
 TERMUX_PKG_SRCURL=https://github.com/scandum/tintin/releases/download/$TERMUX_PKG_VERSION/tintin-$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=640b4823b6f24ada6d417311bfd6263ab13be2422573c3b4ad4352223b535d88

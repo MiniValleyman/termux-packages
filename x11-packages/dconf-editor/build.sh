@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://apps.gnome.org/DconfEditor
 TERMUX_PKG_DESCRIPTION="A GSettings editor for GNOME"
 TERMUX_PKG_LICENSE="GPL-3.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="49.0"
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/dconf-editor/${TERMUX_PKG_VERSION%%.*}/dconf-editor-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=90a8ccfadf51dff31e0028324fb9a358b2d26c5ae861a71c7dbf9f4dd9bdd399

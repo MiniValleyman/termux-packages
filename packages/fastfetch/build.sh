@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/fastfetch-cli/fastfetch
 TERMUX_PKG_DESCRIPTION="A maintained, feature-rich and performance oriented, neofetch like system information tool"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.63.1"
 TERMUX_PKG_SRCURL=https://github.com/fastfetch-cli/fastfetch/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=6e124699ea20fb02c5bc402c0012543303ee75ca55ad664f96bc6cd414d7e6b3

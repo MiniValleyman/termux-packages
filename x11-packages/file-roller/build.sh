@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://wiki.gnome.org/Apps/FileRoller
 TERMUX_PKG_DESCRIPTION="File Roller is an archive manager for the GNOME desktop environment."
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="44.6"
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/file-roller/${TERMUX_PKG_VERSION%.*}/file-roller-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=9e873b5005bc425799a8cd4b237e1fff430ec8d6b34a992c6033f1dfc6e3764e

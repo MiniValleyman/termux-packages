@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/Bhupesh-V/ugit
 TERMUX_PKG_DESCRIPTION="ugit helps you undo your last git command with grace. Your damage control git buddy"
 TERMUX_PKG_LICENSE=MIT
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="5.9"
 TERMUX_PKG_SRCURL=$TERMUX_PKG_HOMEPAGE/archive/v$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=f93d9d4bb0d6fd676704e45733190413885c859ff2807b84cc8113bf674fc063

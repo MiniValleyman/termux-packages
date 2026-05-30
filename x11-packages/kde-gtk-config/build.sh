@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/plasma/kde-gtk-config"
 TERMUX_PKG_DESCRIPTION="Syncs KDE settings to GTK applications"
 TERMUX_PKG_LICENSE="LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.6.5"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/plasma/${TERMUX_PKG_VERSION}/kde-gtk-config-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=2902a012ba85d2d201f879d17f0b4f51910e43a1cb0d761788b063b0c17d7b10

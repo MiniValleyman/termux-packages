@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://git.vuxu.org/lr/about/
 TERMUX_PKG_DESCRIPTION="list files, recursively, includes the best features of ls, find, stat and du"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.0.1"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="https://github.com/leahneukirchen/lr/archive/refs/tags/v$TERMUX_PKG_VERSION.tar.gz"

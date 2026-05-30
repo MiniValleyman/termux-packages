@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://drobilla.net/software/suil.html
 TERMUX_PKG_DESCRIPTION="A library for loading and wrapping LV2 plugin UIs"
 TERMUX_PKG_LICENSE="ISC"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.10.26"
 TERMUX_PKG_SRCURL=https://download.drobilla.net/suil-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=62808916602c47d201a1ec2d246323a8048243f2bf972f859f0db1db4662ee43

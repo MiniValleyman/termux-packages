@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/pocketbase/pocketbase
 TERMUX_PKG_DESCRIPTION="An open source Go backend"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.39.0"
 TERMUX_PKG_SRCURL="https://github.com/pocketbase/pocketbase/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256=5053263d0c8d58fa0ea67e746bc7506d7f42f1a1e206f68302c33f09f38b4267

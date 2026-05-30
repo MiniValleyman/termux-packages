@@ -2,7 +2,7 @@
 TERMUX_PKG_HOMEPAGE="https://github.com/pinard/Recode"
 TERMUX_PKG_DESCRIPTION="Charset converter tool and library"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.7.15"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/rrthomas/recode/releases/download/v${TERMUX_PKG_VERSION}/recode-${TERMUX_PKG_VERSION}.tar.gz

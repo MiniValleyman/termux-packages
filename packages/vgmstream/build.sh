@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/vgmstream/vgmstream
 TERMUX_PKG_DESCRIPTION="A library for playback of various streamed audio formats used in video games"
 TERMUX_PKG_LICENSE="ISC"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2117"
 TERMUX_PKG_SRCURL="https://github.com/vgmstream/vgmstream/archive/refs/tags/r${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256=b9ad0ffabb5919e1c9ec2912416e3ce37916417a8c410196822ce6c610dcde66

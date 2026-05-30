@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/eja/eja
 TERMUX_PKG_DESCRIPTION="eja micro web server"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="18.4.19"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/eja/eja/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

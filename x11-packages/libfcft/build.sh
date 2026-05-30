@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://codeberg.org/dnkl/fcft
 TERMUX_PKG_DESCRIPTION="A small font loading and glyph rasterization library"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.3.1"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://codeberg.org/dnkl/fcft/archive/${TERMUX_PKG_VERSION}.tar.gz

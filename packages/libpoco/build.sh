@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://pocoproject.org/
 TERMUX_PKG_DESCRIPTION="A comprehensive set of C++ libraries that cover all modern-day programming needs"
 TERMUX_PKG_LICENSE="BSL-1.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.15.3"
 TERMUX_PKG_SRCURL=https://github.com/pocoproject/poco/archive/refs/tags/poco-${TERMUX_PKG_VERSION}-release.tar.gz
 TERMUX_PKG_SHA256=4f112fea59e0c65f0fffe30a4957f8d66cf41528c21dd9903e6d7550022c794e

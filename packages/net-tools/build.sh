@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://net-tools.sourceforge.net/
 TERMUX_PKG_DESCRIPTION="Configuration tools for Linux networking"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=2.10.0
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://sourceforge.net/projects/net-tools/files/net-tools-2.10.tar.xz

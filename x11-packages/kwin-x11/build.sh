@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/plasma/kwin-x11"
 TERMUX_PKG_DESCRIPTION="An easy to use, but flexible, X Window Manager"
 TERMUX_PKG_LICENSE="LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.6.5"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/plasma/${TERMUX_PKG_VERSION}/kwin-x11-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=d5172772d5b9dd6ef0f3230cb5f8a78df9148dd07019d8f282a0931cad946b24

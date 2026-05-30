@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/hyperrealm/libconfig
 TERMUX_PKG_DESCRIPTION="C/C++ Configuration File Library"
 TERMUX_PKG_LICENSE="LGPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.8.2"
 TERMUX_PKG_SRCURL=https://github.com/hyperrealm/libconfig/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=8e71983761b08c65b15b769b3ec1d980036c461fdfd415c7183378a4b3eac8f4

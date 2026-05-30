@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://libisl.sourceforge.io/
 TERMUX_PKG_DESCRIPTION="Library for manipulating sets and relations of integer points bounded by linear constraints"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.26
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://libisl.sourceforge.io/isl-${TERMUX_PKG_VERSION}.tar.xz

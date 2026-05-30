@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gpac.wp.imt.fr/
 TERMUX_PKG_DESCRIPTION="An open-source multimedia framework focused on modularity and standards compliance"
 TERMUX_PKG_LICENSE="LGPL-2.1-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.4.0"
 TERMUX_PKG_REVISION=5
 TERMUX_PKG_SRCURL=https://github.com/gpac/gpac/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

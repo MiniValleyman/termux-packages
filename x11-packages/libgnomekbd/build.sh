@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.gnome.org/Archive/libgnomekbd
 TERMUX_PKG_DESCRIPTION="GNOME keyboard library"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.28.1"
 TERMUX_PKG_SRCURL="https://download.gnome.org/sources/libgnomekbd/${TERMUX_PKG_VERSION%.*}/libgnomekbd-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=22dc59566d73c0065350f5a97340e62ecc7b08c4df19183804bb8be24c8fe870

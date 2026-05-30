@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/frameworks/kholidays"
 TERMUX_PKG_DESCRIPTION="KDE library for regional holiday information"
 TERMUX_PKG_LICENSE="LGPL-2.0-only, LGPL-3.0-only"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.26.0"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/frameworks/${TERMUX_PKG_VERSION%.*}/kholidays-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=fc4f46cb5bb8e4766f550fe1a8b401731d797fcf6afa7cb53679048c215a60be

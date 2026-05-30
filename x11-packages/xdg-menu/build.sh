@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://wiki.archlinux.org/title/Xdg-menu
 TERMUX_PKG_DESCRIPTION="Tool that generates XDG Desktop Menus for icewm and other window managers"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.7.6.6"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="https://arch.p5n.pp.ru/~sergej/dl/2023/arch-xdg-menu-$TERMUX_PKG_VERSION.tar.gz"

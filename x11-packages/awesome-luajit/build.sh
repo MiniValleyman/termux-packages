@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/awesomeWM/awesome
 TERMUX_PKG_DESCRIPTION="A highly configurable, next generation framework window manager for X (built with luajit)"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=fa805ab465821c54094126b71a92acf2eba17674
 TERMUX_PKG_VERSION="2026.03.31"
 TERMUX_PKG_SRCURL=git+https://github.com/awesomeWM/awesome

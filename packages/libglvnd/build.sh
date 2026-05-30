@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.freedesktop.org/glvnd/libglvnd
 TERMUX_PKG_DESCRIPTION="The GL Vendor-Neutral Dispatch library"
 TERMUX_PKG_LICENSE="custom"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.7.0"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://gitlab.freedesktop.org/glvnd/libglvnd/-/archive/v${TERMUX_PKG_VERSION}/libglvnd-v${TERMUX_PKG_VERSION}.tar.gz

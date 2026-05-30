@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://core.telegram.org/tdlib/
 TERMUX_PKG_DESCRIPTION="Library for building Telegram clients"
 TERMUX_PKG_LICENSE="BSL-1.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 # Upstream does not seem to do tagged releases since 1.8.0
 TERMUX_PKG_VERSION=1.8.50
 TERMUX_PKG_REVISION=1

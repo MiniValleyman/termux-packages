@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/DamirPorobic/kColorPicker
 TERMUX_PKG_DESCRIPTION="Qt based Color Picker with popup menu"
 TERMUX_PKG_LICENSE="LGPL-3.0-only"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.3.1"
 TERMUX_PKG_SRCURL="https://github.com/ksnip/kColorPicker/archive/refs/tags/v$TERMUX_PKG_VERSION.tar.gz"
 TERMUX_PKG_SHA256=e78c785ec4a8a22a48a91835c97601f5704b5076b154415353b0d2697dc0b4f7

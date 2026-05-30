@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://github.com/baskerville/bspwm"
 TERMUX_PKG_DESCRIPTION="A tiling window manager based on binary space partitioning"
 TERMUX_PKG_LICENSE="BSD 2-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.9.12"
 TERMUX_PKG_SRCURL="https://github.com/baskerville/bspwm/archive/refs/tags/$TERMUX_PKG_VERSION.tar.gz"
 TERMUX_PKG_SHA256=ca3be808e3d0c785955f1613e6e860fc51b5db086b821b48707466da1a06392c

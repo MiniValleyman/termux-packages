@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/lgi-devs/lgi
 TERMUX_PKG_DESCRIPTION="Dynamic Lua binding to GObject libraries using GObject-Introspection"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.9.2+p20251219
 TERMUX_PKG_REVISION=2
 _COMMIT=a1308b23b07a787d21fad86157b0b60eb3079f64

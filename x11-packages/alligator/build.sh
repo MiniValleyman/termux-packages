@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://apps.kde.org/alligator/"
 TERMUX_PKG_DESCRIPTION="Alligator is a convergent, cross-platform feed reader, supporting standard RSS/Atom feeds"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later, LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="26.04.1"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/release-service/${TERMUX_PKG_VERSION}/src/alligator-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=75fd1bea0a1b8a905614db3d7f17c072c0246249f5158ddc85b7c74b54c2b559

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE='https://invent.kde.org/frameworks/kpty'
 TERMUX_PKG_DESCRIPTION='Pty abstraction'
 TERMUX_PKG_LICENSE="LGPL-2.0, LGPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.26.0"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/frameworks/${TERMUX_PKG_VERSION%.*}/kpty-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=7613c26cfaa7465a2fe28a22762ceb38266414e7f4a94a127c09dc0628625553

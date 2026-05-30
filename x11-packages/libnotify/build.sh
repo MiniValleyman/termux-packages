@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://developer.gnome.org/notification-spec/
 TERMUX_PKG_DESCRIPTION="Library for sending desktop notifications"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.8.8"
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/libnotify/${TERMUX_PKG_VERSION%.*}/libnotify-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=23420ef619dc2cb5aebad613f4823a2fa41c07e5a1d05628d40f6ec4b35bfddd

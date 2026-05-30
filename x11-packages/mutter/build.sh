@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://mutter.gnome.org/
 TERMUX_PKG_DESCRIPTION="A Wayland display server and X11 window manager and compositor library"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="48.1"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="https://download.gnome.org/sources/mutter/${TERMUX_PKG_VERSION%%.*}/mutter-$TERMUX_PKG_VERSION.tar.xz"

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://people.freedesktop.org/~hughsient/appstream-glib/
 TERMUX_PKG_DESCRIPTION="Provides GObjects and helper methods to make it easy to read and write AppStream metadata"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.8.3"
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL="https://people.freedesktop.org/~hughsient/appstream-glib/releases/appstream-glib-${TERMUX_PKG_VERSION}.tar.xz"

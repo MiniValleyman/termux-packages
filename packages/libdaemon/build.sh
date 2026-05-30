@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://0pointer.de/lennart/projects/libdaemon/
 TERMUX_PKG_DESCRIPTION="A lightweight C library that eases the writing of UNIX daemons"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.14
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://0pointer.de/lennart/projects/libdaemon/libdaemon-${TERMUX_PKG_VERSION}.tar.gz

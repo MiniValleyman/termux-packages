@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/frameworks/kdeclarative"
 TERMUX_PKG_DESCRIPTION="Provides integration of QML and KDE Frameworks"
 TERMUX_PKG_LICENSE="LGPL-2.0-only, LGPL-3.0-only"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.26.0"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/frameworks/${TERMUX_PKG_VERSION%.*}/kdeclarative-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=9a464e560e436cd3a626ca6aab894f414c6212d2de8b9c5a8eda33be213e00d8

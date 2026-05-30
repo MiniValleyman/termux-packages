@@ -1,6 +1,6 @@
 TERMUX_PKG_HOMEPAGE=https://nextjs.org/
 TERMUX_PKG_DESCRIPTION="Rust-based incremental compilation engine and bundler for Next.js"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_LICENSE="MIT"
 TERMUX_PKG_VERSION="16.2.5"
 TERMUX_PKG_SRCURL=https://github.com/vercel/next.js/archive/refs/tags/v${TERMUX_PKG_VERSION//\~/-}.tar.gz

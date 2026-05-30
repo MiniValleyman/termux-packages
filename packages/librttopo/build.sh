@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://git.osgeo.org/gitea/rttopo/librttopo
 TERMUX_PKG_DESCRIPTION="The RT Topology Library exposes an API to create and manage standard topologies"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1.1.0
 TERMUX_PKG_REVISION=5
 TERMUX_PKG_SRCURL=git+https://git.osgeo.org/gitea/rttopo/librttopo

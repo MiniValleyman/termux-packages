@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://www.cjmweb.net/vbindiff/"
 TERMUX_PKG_DESCRIPTION="Visual binary diff"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.0-beta5"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="http://deb.debian.org/debian/pool/main/v/vbindiff/vbindiff_$TERMUX_PKG_VERSION.orig.tar.gz"

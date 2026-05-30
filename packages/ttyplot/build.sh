@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://github.com/tenox7/ttyplot"
 TERMUX_PKG_DESCRIPTION="A realtime plotting utility for terminal with data input from stdin"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.7.4"
 TERMUX_PKG_SRCURL="https://github.com/tenox7/ttyplot/archive/refs/tags/$TERMUX_PKG_VERSION.tar.gz"
 TERMUX_PKG_SHA256=d4a690cb4ca6d52885ebfdc6230bfb550eecf4b8edb9b54453829a77f63ea7b9

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://trunkrs.dev/
 TERMUX_PKG_DESCRIPTION="Build, bundle & ship your Rust WASM application to the web"
 TERMUX_PKG_LICENSE="Apache-2.0, MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.21.14"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/trunk-rs/trunk/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

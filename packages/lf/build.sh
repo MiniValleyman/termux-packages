@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/gokcehan/lf
 TERMUX_PKG_DESCRIPTION="Terminal file manager"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="41"
 TERMUX_PKG_SRCURL=https://github.com/gokcehan/lf/archive/refs/tags/r${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=55c556d53b5541d5f8691f1309a0166a7a0d8e06cb051c3030c2cd7d8abc6789

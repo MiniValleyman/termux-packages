@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gnunet.org
 TERMUX_PKG_DESCRIPTION="A framework for secure peer-to-peer networking"
 TERMUX_PKG_LICENSE="AGPL-V3"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.27.0"
 TERMUX_PKG_SRCURL=https://ftpmirror.gnu.org/gnu/gnunet/gnunet-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=9dd8feb3f3b8d0993766a49ab618f80bb93017f3bc795b6dda84697397302a07

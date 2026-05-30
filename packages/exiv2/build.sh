@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://exiv2.org/
 TERMUX_PKG_DESCRIPTION="Exif, Iptc and XMP metadata manipulation library and tools"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2:0.28.7"
 TERMUX_PKG_SRCURL=https://github.com/Exiv2/exiv2/archive/refs/tags/v${TERMUX_PKG_VERSION:2}.tar.gz
 TERMUX_PKG_SHA256=5e292b02614dbc0cee40fe1116db2f42f63ef6b2ba430c77b614e17b8d61a638

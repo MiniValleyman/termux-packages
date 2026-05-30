@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.deepspace6.net/projects/ipv6calc.html
 TERMUX_PKG_DESCRIPTION="Does some format changes and calculations of IPv6 addresses"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="4.4.0"
 TERMUX_PKG_SRCURL=https://github.com/pbiering/ipv6calc/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=6863540b173804e5b99cb2c1b14e600170ce9af0b462fcad41584c316d19a310

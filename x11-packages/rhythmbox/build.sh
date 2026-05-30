@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.gnome.org/GNOME/rhythmbox
 TERMUX_PKG_DESCRIPTION="Music playback and management application"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.4.9"
 TERMUX_PKG_SRCURL="https://download.gnome.org/sources/rhythmbox/${TERMUX_PKG_VERSION%.*}/rhythmbox-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=e42291a18df7a21ffe6b352bf73f05d7e298bb4e05bce5967f98ee8cee4408f1

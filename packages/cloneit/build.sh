@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/alok8bb/cloneit
 TERMUX_PKG_DESCRIPTION="A cli tool to download specific GitHub directories or files"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=58e9213ba5af457e76a7ea55696eb77f6d0d9025
 _COMMIT_DATE=2025.07.22
 TERMUX_PKG_VERSION=${_COMMIT_DATE//./}

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/PapirusDevelopmentTeam/papirus-icon-theme
 TERMUX_PKG_DESCRIPTION="Papirus is a free and open source icon theme, based on Paper Icon Set"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="20250501"
 TERMUX_PKG_SRCURL=https://github.com/PapirusDevelopmentTeam/papirus-icon-theme/archive/refs/tags/$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=3831a487f813479ad3224fdbfb0c7023f23056899bc78c93737f341aa655558e

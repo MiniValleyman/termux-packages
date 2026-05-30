@@ -3,7 +3,7 @@ TERMUX_PKG_DESCRIPTION="Seafile is a file syncing and sharing software with file
 # License: GPL-2.0-with-OpenSSL-exception
 TERMUX_PKG_LICENSE="GPL-2.0"
 TERMUX_PKG_LICENSE_FILE="LICENSE.txt"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="9.0.18"
 TERMUX_PKG_SRCURL=https://github.com/haiwen/seafile/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=0b2a93e75b04e40c503c74059ca00b521bf981935f764efcbc5adfabff929d90

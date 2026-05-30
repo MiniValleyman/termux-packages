@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.freedesktop.org/software/colord
 TERMUX_PKG_DESCRIPTION="Client library of the daemon for managing color devices"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.4.7"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="https://github.com/hughsie/colord/archive/refs/tags/$TERMUX_PKG_VERSION.tar.gz"

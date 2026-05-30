@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://btrfs.readthedocs.io/en/latest/
 TERMUX_PKG_DESCRIPTION="Utilities for Btrfs filesystem"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="7.0"
 TERMUX_PKG_SRCURL=https://github.com/kdave/btrfs-progs/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=315e05569f93a595533158cb6bcca526509f519b5be1948b53525a7cb9c046b5

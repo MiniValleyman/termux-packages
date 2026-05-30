@@ -3,7 +3,7 @@ TERMUX_PKG_DESCRIPTION="A set of open source libraries that implement high perfo
 # License: Modified Apache 2.0 License
 TERMUX_PKG_LICENSE="custom"
 TERMUX_PKG_LICENSE_FILE="LICENSE.txt, NOTICE.txt"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.7.0"
 TERMUX_PKG_SRCURL=https://github.com/PixarAnimationStudios/OpenSubdiv/archive/refs/tags/v${TERMUX_PKG_VERSION//./_}.tar.gz
 TERMUX_PKG_SHA256=f843eb49daf20264007d807cbc64516a1fed9cdb1149aaf84ff47691d97491f9

@@ -12,7 +12,7 @@ LICENSES/MIT.txt
 LICENSES/OFL-1.1.txt
 LICENSES/CC-BY-SA-4.0.txt
 "
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="26.04.1"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/release-service/${TERMUX_PKG_VERSION}/src/ghostwriter-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=fbe2ba851cd71ed64bd2f86fc544c02bc06547ddc4c9cec9a1d658c5de15e1a3

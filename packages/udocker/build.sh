@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://indigo-dc.github.io/udocker
 TERMUX_PKG_DESCRIPTION="A basic user tool to execute simple docker containers in batch or interactive systems without root privileges."
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.3.17"
 TERMUX_PKG_REVISION=4
 TERMUX_PKG_SRCURL="https://github.com/indigo-dc/udocker/archive/refs/tags/$TERMUX_PKG_VERSION.tar.gz"

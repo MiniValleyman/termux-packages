@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://codemadness.org/sfeed-simple-feed-parser.html"
 TERMUX_PKG_DESCRIPTION="Shell-script/crontab oriented feed aggregator and parser utility (curses-based reader included)"
 TERMUX_PKG_LICENSE="ISC"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.4"
 TERMUX_PKG_SRCURL="https://codemadness.org/releases/sfeed/sfeed-$TERMUX_PKG_VERSION.tar.gz"
 TERMUX_PKG_SHA256=f9503fe9205a8136f76a9b753c6007abad33e2a516807e416a986723db06e879

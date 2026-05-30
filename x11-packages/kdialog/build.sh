@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/utilities/kdialog"
 TERMUX_PKG_DESCRIPTION="A utility for displaying dialog boxes from shell scripts"
 TERMUX_PKG_LICENSE="LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="26.04.1"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/release-service/${TERMUX_PKG_VERSION}/src/kdialog-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=64714ea3e68b207223e3867587966d6aff57f1e2ef282b1f09786c4f4244ae01

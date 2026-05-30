@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://mattmahoney.net/dc/zpaq.html
 TERMUX_PKG_DESCRIPTION="Programmable file compressor, library and utilities. Based on the PAQ compression algorithm"
 TERMUX_PKG_LICENSE="MIT, Unlicense"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=7.15
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/zpaq/zpaq/archive/refs/tags/${TERMUX_PKG_VERSION}.zip

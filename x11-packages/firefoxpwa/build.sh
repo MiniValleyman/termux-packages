@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://pwasforfirefox.filips.si/
 TERMUX_PKG_DESCRIPTION="A tool to install, manage and use Progressive Web Apps (PWAs) in Mozilla Firefox (native component)"
 TERMUX_PKG_LICENSE="MPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.18.2"
 TERMUX_PKG_SRCURL="https://github.com/filips123/PWAsForFirefox/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256=a6956631ba62442d108cddfd8139d69d39f47004e8d36390a042ab8580d08021

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.com/azelpg/azpainter
 TERMUX_PKG_DESCRIPTION="Full color painting software for Unix-like systems for illustration drawing"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1:3.0.12"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_AUTO_UPDATE=true

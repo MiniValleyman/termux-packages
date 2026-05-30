@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://uxlfoundation.github.io/oneTBB/
 TERMUX_PKG_DESCRIPTION="oneAPI Threading Building Blocks"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2023.0.0"
 TERMUX_PKG_SRCURL=https://github.com/uxlfoundation/oneTBB/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=f8767b971ec6aea25dde58ae0f593e94e7aa75a739a86f67967012f69e2199b1

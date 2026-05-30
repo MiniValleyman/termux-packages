@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://orc.apache.org/
 TERMUX_PKG_DESCRIPTION="Columnar storage for Hadoop workloads"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.3.0"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://dlcdn.apache.org/orc/orc-${TERMUX_PKG_VERSION}/orc-${TERMUX_PKG_VERSION}.tar.gz

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://openzim.org
 TERMUX_PKG_DESCRIPTION="The ZIM library is the reference implementation for the ZIM file format."
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="9.7.0"
 TERMUX_PKG_SRCURL="https://github.com/openzim/libzim/archive/refs/tags/$TERMUX_PKG_VERSION.tar.gz"
 TERMUX_PKG_SHA256=2c40143fd3a365e08f6861587789b9976f66992f5e941d82b6db8f3bb41e085e

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/XAMPPRocky/tokei
 TERMUX_PKG_DESCRIPTION="A blazingly fast CLOC (Count Lines Of Code) program"
 TERMUX_PKG_LICENSE="Apache-2.0, MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="14.0.0"
 TERMUX_PKG_SRCURL=https://github.com/XAMPPRocky/tokei/archive/refs/tags/v$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=4e561dbb83ef1b46359714fc623fd45eddfb14821ece63a219470500fdd1cd26

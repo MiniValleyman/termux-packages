@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/frameworks/kpeople"
 TERMUX_PKG_DESCRIPTION="A library that provides access to all contacts and the people who hold them"
 TERMUX_PKG_LICENSE="LGPL-2.0-only, LGPL-3.0-only"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.26.0"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/frameworks/${TERMUX_PKG_VERSION%.*}/kpeople-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=bd1092cd9900d0ee3b3d08d0971e669a82d1a11c9bec6e2322d713b59191b873

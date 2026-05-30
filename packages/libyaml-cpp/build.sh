@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/jbeder/yaml-cpp
 TERMUX_PKG_DESCRIPTION="A YAML parser and emitter in C++ matching the YAML 1.2 spec"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.9.0"
 TERMUX_PKG_SRCURL=https://github.com/jbeder/yaml-cpp/archive/refs/tags/yaml-cpp-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=25cb043240f828a8c51beb830569634bc7ac603978e0f69d6b63558dadefd49a

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.gtkmm.org/
 TERMUX_PKG_DESCRIPTION="A C++ API for parts of glib that are useful for C++"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.88.0"
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/glibmm/${TERMUX_PKG_VERSION%.*}/glibmm-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=a6549da3a6c43de83b8717dae5413c57a60d92f6ecc624615c612d0bb0ad0fe2

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/pyca/bcrypt
 TERMUX_PKG_DESCRIPTION="Acceptable password hashing for your software and your servers"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="5.0.0"
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://pypi.io/packages/source/b/bcrypt/bcrypt-${TERMUX_PKG_VERSION}.tar.gz

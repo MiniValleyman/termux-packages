@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/flightlessmango/MangoHud/
 TERMUX_PKG_DESCRIPTION="A Vulkan overlay layer for monitoring FPS, temperatures, CPU/GPU load and more"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.8.4"
 TERMUX_PKG_SRCURL=https://github.com/flightlessmango/MangoHud/releases/download/v${TERMUX_PKG_VERSION}/MangoHud-v${TERMUX_PKG_VERSION}-Source.tar.xz
 TERMUX_PKG_SHA256=bbe5a2b976313c53f21dc24b98bbed03226589460a0cce20d923cb2c36c9d8b0

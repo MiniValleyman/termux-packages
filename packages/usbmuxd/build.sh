@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://libimobiledevice.org
 TERMUX_PKG_DESCRIPTION="A socket daemon to multiplex connections from and to iOS devices"
 TERMUX_PKG_LICENSE="GPL-2.0, GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=523f7004dce885fe38b4f80e34a8f76dc8ea98b5
 _COMMIT_DATE=20250201
 TERMUX_PKG_VERSION=1.1.1-p${_COMMIT_DATE}

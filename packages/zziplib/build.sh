@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://zziplib.sourceforge.net/
 TERMUX_PKG_DESCRIPTION="Provides read access to zipped files in a zip-archive, using compression based on free algorithms"
 TERMUX_PKG_LICENSE="LGPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.13.80"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/gdraheim/zziplib/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

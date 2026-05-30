@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/Oblomov/clinfo
 TERMUX_PKG_DESCRIPTION="Print all known information about all available OpenCL platforms and devices in the system"
 TERMUX_PKG_LICENSE="CC0-1.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.0.25.02.14"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="https://github.com/Oblomov/clinfo/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz"

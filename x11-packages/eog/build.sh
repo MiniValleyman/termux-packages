@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://wiki.gnome.org/Apps/EyeOfGnome
 TERMUX_PKG_DESCRIPTION="Eye of GNOME, an image viewing and cataloging program"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="50.1"
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/eog/${TERMUX_PKG_VERSION%.*}/eog-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=6f5ee6d756548b88e25a987e0d06dabc3c6c32598fb7df49fb08945c1fe94a55

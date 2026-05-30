@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/plasma/plasma-browser-integration"
 TERMUX_PKG_DESCRIPTION="Components necessary to integrate browsers into the Plasma Desktop"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.6.5"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/plasma/${TERMUX_PKG_VERSION}/plasma-browser-integration-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=3c54bf15cd70c48f26bb65e6d787a013a86f2375d8fefd2c0acab650b37846f9

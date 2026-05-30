@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://github.com/mono/SkiaSharp"
 TERMUX_PKG_DESCRIPTION="SkiaSharp is a cross-platform 2D graphics API for .NET platforms"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=c16e913577083761d847146db7a04b8d3b3bf755
 _COMMIT_DATE=20241024
 TERMUX_PKG_VERSION="3.116.1.${_COMMIT_DATE}"

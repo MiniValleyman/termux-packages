@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/jthornber/thin-provisioning-tools
 TERMUX_PKG_DESCRIPTION="A suite of tools for manipulating the metadata of the dm-thin, dm-cache and dm-era device-mapper targets."
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.9.0"
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL="https://github.com/jthornber/thin-provisioning-tools/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz"

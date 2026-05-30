@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://godotengine.org
 TERMUX_PKG_DESCRIPTION="Advanced cross-platform 2D and 3D game engine"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="4.6.3"
 TERMUX_PKG_SRCURL="https://github.com/godotengine/godot/archive/refs/tags/$TERMUX_PKG_VERSION-stable.tar.gz"
 TERMUX_PKG_SHA256=fa22b5f974125057087c9ef725eae582dbc5e39385dc377e8d5dbc295b367e1c

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://apps.kde.org/krdc/"
 TERMUX_PKG_DESCRIPTION="Remote Desktop Client by KDE"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later, LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="26.04.1"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/release-service/${TERMUX_PKG_VERSION}/src/krdc-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=212b2c2aaa71c1d29f4356ae64785ccca600a565cfe0e03349afcb95d1444a98

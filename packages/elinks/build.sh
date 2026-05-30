@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/rkd77/elinks
 TERMUX_PKG_DESCRIPTION="Full-Featured Text WWW Browser"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.19.1"
 TERMUX_PKG_SRCURL=https://github.com/rkd77/elinks/releases/download/v${TERMUX_PKG_VERSION}/elinks-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=31960cd471246692b84008bffec89182f25818472f86ee1a41a09bf0dad09eeb

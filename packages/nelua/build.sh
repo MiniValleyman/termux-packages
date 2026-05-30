@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://nelua.io
 TERMUX_PKG_DESCRIPTION="Minimal, efficient, statically-typed and meta-programmable systems programming language"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=2024.01.13
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/edubart/nelua-lang/archive/refs/tags/${TERMUX_PKG_VERSION//.}.tar.gz

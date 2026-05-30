@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.opencode.net/trialuser/qt6ct/
 TERMUX_PKG_DESCRIPTION="Qt 6 Configuration Utility"
 TERMUX_PKG_LICENSE="BSD 2-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.11"
 TERMUX_PKG_REVISION=5
 TERMUX_PKG_SRCURL="https://www.opencode.net/trialuser/qt6ct/-/archive/${TERMUX_PKG_VERSION}/qt6ct-${TERMUX_PKG_VERSION}.tar.gz"

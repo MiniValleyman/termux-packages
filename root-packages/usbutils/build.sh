@@ -9,7 +9,7 @@ LICENSES/GPL-3.0-only.txt
 LICENSES/LGPL-2.1-or-later.txt
 LICENSES/MIT.txt
 "
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="019"
 TERMUX_PKG_SRCURL="https://www.kernel.org/pub/linux/utils/usb/usbutils/usbutils-$TERMUX_PKG_VERSION.tar.xz"
 TERMUX_PKG_SHA256=659f40c440e31ba865c52c818a33d3ba6a97349e3353f8b1985179cb2aa71ec5

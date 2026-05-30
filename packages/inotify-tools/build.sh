@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/rvoicilas/inotify-tools/wiki
 TERMUX_PKG_DESCRIPTION="Programs providing a simple interface to inotify"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="4.25.9.0"
 TERMUX_PKG_SRCURL=https://github.com/rvoicilas/inotify-tools/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=d33a4fd24c72c2d08893f129d724adf725b93dae96c359e4f4e9f32573cc853b

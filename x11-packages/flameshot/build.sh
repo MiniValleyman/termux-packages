@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://flameshot.org/
 TERMUX_PKG_DESCRIPTION="Powerful yet simple to use screenshot software"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="13.3.0"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/flameshot-org/flameshot/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

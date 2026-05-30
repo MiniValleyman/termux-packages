@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://fcitx-im.org/
 TERMUX_PKG_DESCRIPTION="Fcitx Qt immodule & library"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="5.1.13"
 TERMUX_PKG_SRCURL=https://github.com/fcitx/fcitx5-qt/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=74b2c43ca865ec9ede257bcd3bdadafc20f571900cb2440a4488335e4d4e91cc

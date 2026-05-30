@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://drobilla.net/category/zix
 TERMUX_PKG_DESCRIPTION="lightweight C99 portability and data structure library"
 TERMUX_PKG_LICENSE="BSD"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.6.2"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://download.drobilla.net/zix-${TERMUX_PKG_VERSION}.tar.xz

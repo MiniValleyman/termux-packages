@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://capnproto.org/
 TERMUX_PKG_DESCRIPTION="Data interchange format and capability-based RPC system"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.4.0"
 TERMUX_PKG_SRCURL=https://github.com/capnproto/capnproto/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=d14a9149b79c055fee9d5aa778defe8e8cee0d2a11f0729865cd30dcc345eef2

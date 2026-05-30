@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://include-what-you-use.org/
 TERMUX_PKG_DESCRIPTION="A tool to analyze #includes in C and C++ source files"
 TERMUX_PKG_LICENSE=NCSA
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 # Update this and the clang version below when libllvm is updated:
 TERMUX_PKG_VERSION="0.25"
 TERMUX_PKG_REVISION=2

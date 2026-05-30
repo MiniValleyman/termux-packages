@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://hunspell.github.io
 TERMUX_PKG_DESCRIPTION="Spell checker"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.7.3"
 TERMUX_PKG_SRCURL=https://github.com/hunspell/hunspell/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=933be3dac6fd55f6e752331a170efb7e33800e40fae1156d8434cc8c85379a1b

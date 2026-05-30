@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://github.com/hoene/libmysofa"
 TERMUX_PKG_DESCRIPTION="Reader for AES SOFA files to get better HRTFs"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.3.4"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="https://github.com/hoene/libmysofa/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz"

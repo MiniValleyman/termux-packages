@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/mrjosh/helm-ls
 TERMUX_PKG_DESCRIPTION="Language server for Helm"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.5.4"
 TERMUX_PKG_SRCURL=https://github.com/mrjosh/helm-ls/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=a8a5490084839af3506c85efcf603fbd71bb9ee37222bbd7817da1da3f054ab3

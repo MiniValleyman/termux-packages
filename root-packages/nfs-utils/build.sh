@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://linux-nfs.org/
 TERMUX_PKG_DESCRIPTION="Linux NFS userland utilities"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.9.1"
 TERMUX_PKG_SRCURL=https://downloads.sourceforge.net/nfs/nfs-utils-${TERMUX_PKG_VERSION}.tar.bz2
 TERMUX_PKG_SHA256=3e9804674f44d18c693f2aedf8c8cc92531edc9f93e6220f70380d3993c500c8

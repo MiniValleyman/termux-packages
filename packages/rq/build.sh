@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/dflemstr/rq
 TERMUX_PKG_DESCRIPTION="A tool for doing record analysis and transformation"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1.0.4
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://github.com/dflemstr/rq/archive/refs/tags/v$TERMUX_PKG_VERSION.tar.gz

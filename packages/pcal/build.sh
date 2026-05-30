@@ -4,7 +4,7 @@ TERMUX_PKG_DESCRIPTION="A multi-platform program which generates annotated PostS
 # and Pipeline Associates, Inc. with permission to modify and redistribute.
 TERMUX_PKG_LICENSE="custom"
 TERMUX_PKG_LICENSE_FILE="doc/ReadMe.txt, COPYRIGHT.moonphase"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=4.11.0
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://downloads.sourceforge.net/pcal/pcal-${TERMUX_PKG_VERSION}.tgz

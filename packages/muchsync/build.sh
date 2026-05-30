@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://www.muchsync.org/
 TERMUX_PKG_DESCRIPTION="Synchronize notmuch mail across machines"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="7"
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL="https://www.muchsync.org/src/muchsync-${TERMUX_PKG_VERSION}.tar.gz"

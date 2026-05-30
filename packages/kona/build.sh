@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/kevinlawler/kona
 TERMUX_PKG_DESCRIPTION="Open-source implementation of the APL-like K programming language"
 TERMUX_PKG_LICENSE="ISC"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=20211225
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/kevinlawler/kona/archive/refs/tags/Win64-${TERMUX_PKG_VERSION}.tar.gz

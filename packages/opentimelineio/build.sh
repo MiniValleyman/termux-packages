@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://opentimeline.io/
 TERMUX_PKG_DESCRIPTION="Open Source API and interchange format for editorial timeline information."
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.18.1"
 TERMUX_PKG_SRCURL="git+https://github.com/AcademySoftwareFoundation/OpenTimelineIO"
 TERMUX_PKG_SHA256=af81192a77f5fbf84f6e6a237910fc6e6999ad908bd20a685841ad4bb4a39a73

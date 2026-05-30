@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/Haivision/srt
 TERMUX_PKG_DESCRIPTION="Secure Reliable Transport (SRT) Protocol"
 TERMUX_PKG_LICENSE="MPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.5.5"
 TERMUX_PKG_SRCURL=https://github.com/Haivision/srt/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=c3518bc43a71b5289032395b2db4c3e09e73d78b54247d56c14553a503b491cf

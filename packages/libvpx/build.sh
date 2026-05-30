@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.webmproject.org
 TERMUX_PKG_DESCRIPTION="VP8 & VP9 Codec SDK"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1:1.16.0"
 TERMUX_PKG_SRCURL="https://github.com/webmproject/libvpx/archive/refs/tags/v${TERMUX_PKG_VERSION:2}.tar.gz"
 TERMUX_PKG_SHA256=7a479a3c66b9f5d5542a4c6a1b7d3768a983b1e5c14c60a9396edc9b649e015c

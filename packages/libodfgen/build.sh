@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://sourceforge.net/p/libwpd/wiki/libodfgen/
 TERMUX_PKG_DESCRIPTION="Library for generating documents in Open Document Format"
 TERMUX_PKG_LICENSE="LGPL-2.1, MPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.1.8"
 TERMUX_PKG_REVISION=4
 TERMUX_PKG_SRCURL="https://sourceforge.net/projects/libwpd/files/libodfgen/libodfgen-${TERMUX_PKG_VERSION}/libodfgen-${TERMUX_PKG_VERSION}.tar.xz"

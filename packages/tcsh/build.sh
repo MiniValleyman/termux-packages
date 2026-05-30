@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.tcsh.org
 TERMUX_PKG_DESCRIPTION="TENEX C Shell, an enhanced version of Berkeley csh"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.24.16"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/tcsh-org/tcsh/archive/refs/tags/TCSH${TERMUX_PKG_VERSION//./_}.tar.gz

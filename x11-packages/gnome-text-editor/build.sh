@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://apps.gnome.org/TextEditor/
 TERMUX_PKG_DESCRIPTION="GNOME Text Editor is a simple text editor focused on a pleasing default experience"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="50.1"
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/gnome-text-editor/${TERMUX_PKG_VERSION%.*}/gnome-text-editor-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=f68036b09d378faa883bfe936e479c6ff37027c2ffed101daf912df70c51d0e6

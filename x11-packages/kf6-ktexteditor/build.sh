@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/frameworks/ktexteditor"
 TERMUX_PKG_DESCRIPTION="Advanced embeddable text editor by KDE"
 TERMUX_PKG_LICENSE="GPL-2.0-only, LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.26.0"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/frameworks/${TERMUX_PKG_VERSION%.*}/ktexteditor-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=ec7bc094f93d514b5f675ae95c274dd24acc47769d971606d8708cc88f811341

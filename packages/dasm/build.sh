@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://dasm-dillon.sourceforge.io/
 TERMUX_PKG_DESCRIPTION="Macro assembler with support for several 8-bit microprocessors"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=2.20.14.1
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/dasm-assembler/dasm/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://savannah.nongnu.org/projects/quilt
 TERMUX_PKG_DESCRIPTION="Allows you to easily manage large numbers of patches"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.69"
 TERMUX_PKG_SRCURL=https://savannah.nongnu.org/download/quilt/quilt-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=555ddffde22da3c86d1caf5a9c1fb8a152ac2b84730437bd39cc08849c9f4852

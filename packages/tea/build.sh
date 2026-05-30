@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitea.com/gitea/tea
 TERMUX_PKG_DESCRIPTION="The official CLI for Gitea"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.14.1"
 TERMUX_PKG_SRCURL=https://gitea.com/gitea/tea/archive/v$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=848b6b2fafa270fa77b4e278d521bfcc16d2f721c45ac90f08f5b16dc630c3f9

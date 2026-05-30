@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://fcitx-im.org/
 TERMUX_PKG_DESCRIPTION="Fcitx gtk library"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="5.1.6"
 TERMUX_PKG_SRCURL=https://github.com/fcitx/fcitx5-gtk/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=56ecc894ba485184459906ac340bef4212d7484de78c8608d8366b48c5bb6bf6

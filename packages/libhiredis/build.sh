@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://redis.com/lp/hiredis
 TERMUX_PKG_DESCRIPTION="Hiredis is a minimalistic C client library for the Redis database"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.3.0"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="https://github.com/redis/hiredis/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz"

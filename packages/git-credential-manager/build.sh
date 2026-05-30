@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://aka.ms/gcm"
 TERMUX_PKG_DESCRIPTION="Cross-platform Git credential storage for multiple hosting providers"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.8.0"
 TERMUX_PKG_SRCURL="https://github.com/git-ecosystem/git-credential-manager/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256=44d66fa8273c871cabdeb286fac331da4d1c5e8dd760af7af6744a753e4d5769

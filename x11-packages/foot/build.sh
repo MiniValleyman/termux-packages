@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://codeberg.org/dnkl/foot
 TERMUX_PKG_DESCRIPTION="Fast, lightweight and minimalistic Wayland terminal emulator"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.27.0"
 TERMUX_PKG_SRCURL=https://codeberg.org/dnkl/foot/archive/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=4e6131cc859ec6a36569f1978cf3617cc3836a681d13d228ded1b4885dab7770

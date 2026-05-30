@@ -7,7 +7,7 @@ LICENSES/FASTLZ.txt
 LICENSES/LZ4.txt
 LICENSES/ZLIB.txt
 LICENSES/ZSTD.txt"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.1.2"
 TERMUX_PKG_SRCURL=https://github.com/Blosc/c-blosc2/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=b4fbad51de56abf2f4660bd1cb9801bc044662db3ea009ede454b4fd36fd98eb

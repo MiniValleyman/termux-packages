@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://apps.kde.org/audiotube/"
 TERMUX_PKG_DESCRIPTION="AudioTube can search YouTube Music, list albums and artists, play automatically generated playlists, albums and allows to put your own playlist together"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later, LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="26.04.1"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/release-service/${TERMUX_PKG_VERSION}/src/audiotube-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=78952113ae9b553a64f1fde1ed532f33871046b1dd40f62688638c1f14bb2216

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/mjuhasz/BDSup2Sub
 TERMUX_PKG_DESCRIPTION="A subtitle conversion tool for image based stream formats"
 TERMUX_PKG_LICENSE="Apache-2.0, LGPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=4.0.1
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/mjuhasz/BDSup2Sub/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz

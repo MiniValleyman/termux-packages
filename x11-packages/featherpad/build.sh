@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/tsujan/FeatherPad
 TERMUX_PKG_DESCRIPTION="Lightweight Qt Plain-Text Editor"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.6.3"
 TERMUX_PKG_SRCURL=https://github.com/tsujan/FeatherPad/releases/download/V${TERMUX_PKG_VERSION}/FeatherPad-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=f20a2e1b82524d181c97bb23d1b643ae374b9257a8c2c95bcaf0d0c940a2c9ee

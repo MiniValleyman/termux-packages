@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/plasma/plasma-welcome"
 TERMUX_PKG_DESCRIPTION="A friendly onboarding wizard for Plasma"
 TERMUX_PKG_LICENSE="LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.6.5"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/plasma/${TERMUX_PKG_VERSION}/plasma-welcome-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=bc9427d739cdc8ba7f49fe62d02a716351a772df1b2b696c6c1f08695c4126a2

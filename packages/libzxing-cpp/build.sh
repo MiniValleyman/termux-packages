@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/zxing-cpp/zxing-cpp
 TERMUX_PKG_DESCRIPTION="An open-source, multi-format 1D/2D barcode image processing library implemented in C++"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.0.2"
 TERMUX_PKG_SRCURL="https://github.com/zxing-cpp/zxing-cpp/releases/download/v${TERMUX_PKG_VERSION}/zxing-cpp-${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256=e957f13e2ad4e31badb3d9af3f6ba8999a3ca3c9cc4d6bafc98032f9cce1a090

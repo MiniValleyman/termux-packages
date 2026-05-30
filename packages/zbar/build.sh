@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/mchehab/zbar
 TERMUX_PKG_DESCRIPTION="Software suite for reading bar codes from various sources"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.23.93"
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://github.com/mchehab/zbar/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz

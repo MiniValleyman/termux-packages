@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://portal.hdfgroup.org/display/support
 TERMUX_PKG_DESCRIPTION="Hierarchical Data Format 5 (HDF5)"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.14.4.3"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/HDFGroup/hdf5/archive/refs/tags/hdf5_${TERMUX_PKG_VERSION}.tar.gz

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/linuxmint/cinnamon
 TERMUX_PKG_DESCRIPTION="Cinnamon shell"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.6.8"
 TERMUX_PKG_SRCURL="https://github.com/linuxmint/cinnamon/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256=adbc892191a4f4e24346100deaeca12cea0d2c8e07061ec86fe963633b278b64

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/markuskimius/SDL2_Pango
 TERMUX_PKG_DESCRIPTION="SDL2 library for internationalized text rendering"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.1.5"
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL="https://github.com/markuskimius/SDL2_Pango/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz"

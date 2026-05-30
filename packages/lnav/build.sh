@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://lnav.org/
 TERMUX_PKG_DESCRIPTION="An advanced log file viewer for the small-scale"
 TERMUX_PKG_LICENSE="BSD 2-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.14.0"
 TERMUX_PKG_SRCURL=https://github.com/tstack/lnav/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=bf142441fc85e99c256ebe661e4199768acbd340da1344554da49a9e867a49ea

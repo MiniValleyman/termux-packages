@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://www.git-town.com"
 TERMUX_PKG_DESCRIPTION="Git branches made easy"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="22.7.1"
 TERMUX_PKG_SRCURL="https://github.com/git-town/git-town/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256=1d7f136d5b932593281614f7a5ae2fbb8cf219233efe43022a9f93241c926478

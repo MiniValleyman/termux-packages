@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://invent.kde.org/graphics/libkdcraw
 TERMUX_PKG_DESCRIPTION="C++ interface used to decode RAW pictures"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later, LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="26.04.1"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/release-service/${TERMUX_PKG_VERSION}/src/libkdcraw-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=dc898b7488f84c1e286d47775a0562402c954647dab622719d9f953d90bd9aef

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://git.sr.ht/~delthas/senpai
 TERMUX_PKG_DESCRIPTION="An IRC client that works best with bouncers"
 TERMUX_PKG_LICENSE="ISC"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1:0.4.1"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://git.sr.ht/~delthas/senpai/archive/v${TERMUX_PKG_VERSION#*:}.tar.gz

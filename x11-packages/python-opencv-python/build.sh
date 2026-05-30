@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/opencv/opencv-python
 TERMUX_PKG_DESCRIPTION="Python wrapper for Python bindings for OpenCV"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="92"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_REPOLOGY_METADATA_VERSION="$(. "$TERMUX_SCRIPTDIR/x11-packages/opencv/build.sh"; echo "$TERMUX_PKG_VERSION").${TERMUX_PKG_VERSION}"

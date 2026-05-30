@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/frameworks/kded"
 TERMUX_PKG_DESCRIPTION="Extensible deamon for providing system level services"
 TERMUX_PKG_LICENSE="LGPL-2.0-only, LGPL-3.0-only"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.26.0"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/frameworks/${TERMUX_PKG_VERSION%.*}/kded-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=4265d1162cbd7febf16d103bf1bd9fab858fa3f54f52797ed0938436bee347af

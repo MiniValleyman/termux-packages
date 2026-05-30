@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/Michael-F-Bryan/mdbook-epub
 TERMUX_PKG_DESCRIPTION="An EPUB renderer for mdbook"
 TERMUX_PKG_LICENSE="MPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.5.2"
 TERMUX_PKG_SRCURL=https://github.com/Michael-F-Bryan/mdbook-epub/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=5040097cc5177012e15152d2bc548dbbad211adb91b3399a4c96fcc2ea966557

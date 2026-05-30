@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://crawl.develz.org/
 TERMUX_PKG_DESCRIPTION="Roguelike adventure through dungeons filled with dangerous monsters"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.34.1"
 TERMUX_PKG_SRCURL="https://github.com/crawl/crawl/releases/download/$TERMUX_PKG_VERSION/stone_soup-$TERMUX_PKG_VERSION.tar.xz"
 TERMUX_PKG_SHA256=473b9cdc16be0b537ac11e43c6c77db4b290000e4a17f72a842eba59c6b7be2a

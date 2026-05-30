@@ -2,7 +2,7 @@ TERMUX_PKG_HOMEPAGE=https://www.fltk.org/
 TERMUX_PKG_DESCRIPTION="Graphical user interface toolkit for X"
 TERMUX_PKG_LICENSE="LGPL-2.0"
 TERMUX_PKG_LICENSE_FILE="COPYING"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 # Revbump reverse dependencies after updating
 TERMUX_PKG_VERSION="1.3.9"
 TERMUX_PKG_REVISION=1

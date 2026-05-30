@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.smartmontools.org/
 TERMUX_PKG_DESCRIPTION="Utility programs (smartctl and smartd) to control and monitor storage systems"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="7.5"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="https://downloads.sourceforge.net/sourceforge/smartmontools/smartmontools-${TERMUX_PKG_VERSION}.tar.gz"

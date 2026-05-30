@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gnucobol.sourceforge.io/
 TERMUX_PKG_DESCRIPTION="A free/libre COBOL compiler"
 TERMUX_PKG_LICENSE="GPL-3.0, LGPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.2"
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://mirrors.kernel.org/gnu/gnucobol/gnucobol-${TERMUX_PKG_VERSION}.tar.xz

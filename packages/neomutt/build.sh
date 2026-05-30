@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://neomutt.org/
 TERMUX_PKG_DESCRIPTION="A version of mutt with added features"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="20260504"
 TERMUX_PKG_SRCURL=https://github.com/neomutt/neomutt/archive/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=93fd8344c12cd857f084f8d7cc1187479f79036ab9725cfdbc81c0cc845f1615

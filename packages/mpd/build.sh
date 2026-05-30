@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.musicpd.org
 TERMUX_PKG_DESCRIPTION="Music player daemon"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.24.12"
 TERMUX_PKG_SRCURL=https://github.com/MusicPlayerDaemon/MPD/archive/refs/tags/v$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=331549c8d90e822b82e1da68913bbfa0ce6bdbba525f17eafdc642cc87c4986e

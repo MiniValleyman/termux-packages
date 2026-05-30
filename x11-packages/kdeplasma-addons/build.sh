@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/plasma/kdeplasma-addons"
 TERMUX_PKG_DESCRIPTION="All kind of addons to improve your Plasma experience"
 TERMUX_PKG_LICENSE="LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.6.5"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/plasma/${TERMUX_PKG_VERSION}/kdeplasma-addons-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=48fdae7cfaa26042a59027fbe8df83789b172458bc2af0a23a015a04b8071af9

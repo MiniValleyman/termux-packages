@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://www.underbit.com/products/mad/
 TERMUX_PKG_DESCRIPTION="MAD ID3 tag manipulation library"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.16.4"
 TERMUX_PKG_SRCURL="https://codeberg.org/tenacityteam/libid3tag/archive/${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256=ceb88ada1aa867c87c1d748a8aa40e68db5b0d2df636a9dab0ab1f7741d5e009

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://cmocka.org/"
 TERMUX_PKG_DESCRIPTION="cmocka is an unit testing framework for C"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.0.2"
 TERMUX_PKG_SRCURL="https://gitlab.com/cmocka/cmocka/-/archive/cmocka-${TERMUX_PKG_VERSION}/cmocka-cmocka-${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256=bba20112c8293d938b24dd1ca701389a9cf0f2143e8f8e8365e55359637cd2a9

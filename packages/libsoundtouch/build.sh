@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.surina.net/soundtouch/
 TERMUX_PKG_DESCRIPTION="An open-source audio processing library for changing the Tempo, Pitch and Playback Rates of audio streams or files"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=2.3.3
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://www.surina.net/soundtouch/soundtouch-${TERMUX_PKG_VERSION}.tar.gz

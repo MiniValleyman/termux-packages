@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://icecast.org
 TERMUX_PKG_DESCRIPTION="Generic C framework used and developed by the Icecast project"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=0.9.5
 TERMUX_PKG_SRCURL="https://downloads.xiph.org/releases/igloo/libigloo-$TERMUX_PKG_VERSION.tar.gz"
 TERMUX_PKG_SHA256=ea22e9119f7a2188810f99100c5155c6762d4595ae213b9ac29e69b4f0b87289

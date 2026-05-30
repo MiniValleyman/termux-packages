@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.radare.org/
 TERMUX_PKG_DESCRIPTION="UNIX-like reverse engineering framework and command-line toolset"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.1.4"
 TERMUX_PKG_SRCURL=https://github.com/radareorg/radare2/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=e025d623aa253e20b050164e65f140e437c110812a7b4c8b1b1342f692dfb452

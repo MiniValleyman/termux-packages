@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://apps.kde.org/tokodon/"
 TERMUX_PKG_DESCRIPTION="A Mastodon client for Plasma"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later, LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="26.04.1"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/release-service/${TERMUX_PKG_VERSION}/src/tokodon-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=06c1b9b0c37d58e388bd90c594f42b56aee7e60c7678c67ef75ee47abbc531f1

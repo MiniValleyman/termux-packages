@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/fcitx/fcitx5-hangul
 TERMUX_PKG_DESCRIPTION="libhangul input method support for fcitx5"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="5.1.9"
 TERMUX_PKG_SRCURL="https://github.com/fcitx/fcitx5-hangul/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256=2d26f9663cb75f4d4e8409be7ad32871361c357f1ed73385d78340e0f850ce5c

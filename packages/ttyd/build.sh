@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://tsl0922.github.io/ttyd/
 TERMUX_PKG_DESCRIPTION="Command-line tool for sharing terminal over the web"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.7.7"
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL=https://github.com/tsl0922/ttyd/archive/refs/tags/$TERMUX_PKG_VERSION.tar.gz

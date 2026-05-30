@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/mozilla/sccache
 TERMUX_PKG_DESCRIPTION="sccache is ccache with cloud storage"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.15.0"
 TERMUX_PKG_SRCURL=https://github.com/mozilla/sccache/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=6e69b88f2f88982dc6389f68a6624b35502b5a2760a6a8a07bdb10a250ed98df

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gnome.pages.gitlab.gnome.org/tinysparql
 TERMUX_PKG_DESCRIPTION="Desktop-neutral metadata-based search framework"
 TERMUX_PKG_LICENSE="LGPL-2.1-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.10.1"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="https://github.com/GNOME/tinysparql/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz"

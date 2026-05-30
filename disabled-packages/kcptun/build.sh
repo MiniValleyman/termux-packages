@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/xtaci/kcptun
 TERMUX_PKG_DESCRIPTION="A Stable & Secure Tunnel based on KCP with N:M multiplexing and FEC"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="20260101"
 TERMUX_PKG_SRCURL=https://github.com/xtaci/kcptun/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=814dcd0b1af47b8230b28139fda2187b3b1c2bf4c04b31648d72bc32daca299d

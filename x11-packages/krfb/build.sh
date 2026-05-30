@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://apps.kde.org/krfb/"
 TERMUX_PKG_DESCRIPTION="Desktop Sharing"
 TERMUX_PKG_LICENSE="LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="26.04.1"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/release-service/${TERMUX_PKG_VERSION}/src/krfb-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=591926a203a41546bf49239fc464f730b7ad1a4a3a5ae49204616d2b635ed1fe

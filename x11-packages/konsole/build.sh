@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://apps.kde.org/konsole/"
 TERMUX_PKG_DESCRIPTION="KDE terminal emulator"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="26.04.1"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/release-service/${TERMUX_PKG_VERSION}/src/konsole-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=4c59dabc4b64201c61458e8997a66d1aa7dc98b181e5e85f3c0f5cb69066d963

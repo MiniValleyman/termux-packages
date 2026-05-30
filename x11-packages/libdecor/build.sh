@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.freedesktop.org/libdecor/libdecor
 TERMUX_PKG_DESCRIPTION="Client-side decorations library for Wayland clients"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.2.5"
 TERMUX_PKG_SRCURL=https://gitlab.freedesktop.org/libdecor/libdecor/-/archive/${TERMUX_PKG_VERSION}/libdecor-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=39c109a9a7eae943ba34d18a282c447d5729f9c486c8bc05ea305e4acd341522

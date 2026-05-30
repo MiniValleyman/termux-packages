@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://testssl.sh/
 TERMUX_PKG_DESCRIPTION="Testing TLS/SSL encryption anywhere on any port."
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.2.3"
 TERMUX_PKG_SRCURL=https://github.com/drwetter/testssl.sh/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=1c4bb10185a67592164eb870c717b8bdd03f290c8d68f9a8c658335ff5ac8b91

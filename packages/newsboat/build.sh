@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://newsboat.org/
 TERMUX_PKG_DESCRIPTION="RSS/Atom feed reader for the text console"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.43"
 TERMUX_PKG_SRCURL=https://newsboat.org/releases/${TERMUX_PKG_VERSION}/newsboat-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=325107b8a5fa4c432c9f85490dbf4fe61699d239fec161e34b3383345f7d37f5

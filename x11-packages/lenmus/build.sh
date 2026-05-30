@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://www.lenmus.org/
 TERMUX_PKG_DESCRIPTION="A free program to help you in the study of music theory and ear training"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=6.0.1
 TERMUX_PKG_REVISION=3
 TERMUX_PKG_SRCURL=https://github.com/lenmus/lenmus/archive/refs/tags/Release_${TERMUX_PKG_VERSION}.tar.gz

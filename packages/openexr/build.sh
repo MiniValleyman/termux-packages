@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.openexr.com/
 TERMUX_PKG_DESCRIPTION="Provides the specification and reference implementation of the EXR file format"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.4.4"
 TERMUX_PKG_SRCURL="https://github.com/AcademySoftwareFoundation/openexr/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256=7c663c3c41da9354b5af277bc2fd1d2360788050b4e0751a32bcd50e8abaef8f

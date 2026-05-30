@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://github.com/CLIUtils/CLI11"
 TERMUX_PKG_DESCRIPTION="Command line parser for C++11"
 TERMUX_PKG_LICENSE="BSD"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.6.2"
 TERMUX_PKG_SRCURL="https://github.com/CLIUtils/CLI11/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256="c6ea6b2e5608b3ea8617999bd5f47420c71b2ebdb8dc4767c1034d1da5785711"

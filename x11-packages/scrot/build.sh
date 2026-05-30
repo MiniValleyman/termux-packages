@@ -3,7 +3,7 @@ TERMUX_PKG_DESCRIPTION="Simple command-line screenshot utility for X"
 # License: MIT-feh
 TERMUX_PKG_LICENSE="custom"
 TERMUX_PKG_LICENSE_FILE="COPYING"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.0.0"
 TERMUX_PKG_SRCURL=https://github.com/resurrecting-open-source-projects/scrot/releases/download/${TERMUX_PKG_VERSION}/scrot-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=1b4b3acadfe07bf89234838675d1d23508a9a6810cb64584f1d9610103d6cdfa

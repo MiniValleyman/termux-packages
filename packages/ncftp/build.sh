@@ -3,7 +3,7 @@ TERMUX_PKG_DESCRIPTION="A free set of programs that use the File Transfer Protoc
 # License: Clarified Artistic
 TERMUX_PKG_LICENSE="custom"
 TERMUX_PKG_LICENSE_FILE="doc/LICENSE.txt"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.3.0"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://www.ncftp.com/public_ftp/ncftp/ncftp-${TERMUX_PKG_VERSION}-src.tar.gz

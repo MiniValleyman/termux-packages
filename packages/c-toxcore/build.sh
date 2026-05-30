@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://tox.chat
 TERMUX_PKG_DESCRIPTION="Backend library for the Tox protocol"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 # Match commit SHA with toxic/blob/master/script/build-minimal-static-toxic.sh
 # (for example, toxic 0.16.2 has the commit of c-toxcore version 0.2.22 in it)
 # https://github.com/JFreegman/toxic/blob/07dba324aa06916c6c96ed5104240d304a662050/script/build-minimal-static-toxic.sh#L146

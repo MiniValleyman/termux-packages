@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://mate-desktop.org/
 TERMUX_PKG_DESCRIPTION="Mixer library for MATE Desktop"
 TERMUX_PKG_LICENSE="LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.28.0"
 TERMUX_PKG_SRCURL="https://github.com/mate-desktop/libmatemixer/releases/download/v$TERMUX_PKG_VERSION/libmatemixer-$TERMUX_PKG_VERSION.tar.xz"
 TERMUX_PKG_SHA256=5d73b922397f60688e3c9530eb532bce46c30e262db1b5352fa32c40d870a0c7

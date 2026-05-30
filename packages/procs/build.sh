@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/dalance/procs
 TERMUX_PKG_DESCRIPTION="A modern replacement for ps"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.14.11"
 TERMUX_PKG_SRCURL=https://github.com/dalance/procs/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=3d6b3561ce05362a092ea8488458f552d6636d3a280290e21f841c432cadf91a

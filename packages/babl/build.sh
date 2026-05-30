@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gegl.org/babl/
 TERMUX_PKG_DESCRIPTION="Dynamic pixel format translation library"
 TERMUX_PKG_LICENSE="LGPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.1.126"
 TERMUX_PKG_SRCURL=https://gitlab.gnome.org/GNOME/babl/-/archive/BABL_${TERMUX_PKG_VERSION//./_}/babl-BABL_${TERMUX_PKG_VERSION//./_}.tar.gz
 TERMUX_PKG_SHA256=5619fb88d57040e1bf0e1d66385fb463f524f1591cf0fe8400efcd3be8bce287

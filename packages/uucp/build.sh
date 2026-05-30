@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.airs.com/ian/uucp.html
 TERMUX_PKG_DESCRIPTION="The standard UUCP package of the Free Software Foundation"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=1.07
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://mirrors.kernel.org/gnu/uucp/uucp-${TERMUX_PKG_VERSION}.tar.gz

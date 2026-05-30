@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/network/ktorrent"
 TERMUX_PKG_DESCRIPTION="A powerful BitTorrent client for KDE"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="26.04.1"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/release-service/${TERMUX_PKG_VERSION}/src/ktorrent-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=d168629b80c786a5a7d9c284039844c5e2cb7086d8fd9aa37a81f64546ec6883

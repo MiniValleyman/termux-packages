@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/plasma/print-manager"
 TERMUX_PKG_DESCRIPTION=" A tool for managing print jobs and printers"
 TERMUX_PKG_LICENSE="LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.6.5"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/plasma/${TERMUX_PKG_VERSION}/print-manager-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=65e1e6f559411995c68516f45c5e7b7fc242bfa2b68711e6204b319981a3ae6d

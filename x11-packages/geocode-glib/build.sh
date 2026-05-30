@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.gnome.org/GNOME/geocode-glib
 TERMUX_PKG_DESCRIPTION="Convenience library for the geocoding and reverse geocoding"
 TERMUX_PKG_LICENSE="GPL-2.0-only"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.26.4"
 TERMUX_PKG_SRCURL="https://download.gnome.org/sources/geocode-glib/${TERMUX_PKG_VERSION%.*}/geocode-glib-$TERMUX_PKG_VERSION.tar.xz"
 TERMUX_PKG_SHA256=2d9a6826d158470449a173871221596da0f83ebdcff98b90c7049089056a37aa

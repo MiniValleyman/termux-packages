@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/PCMan/gtk3-nocsd
 TERMUX_PKG_DESCRIPTION="A small module used to disable the client side decoration of Gtk+ 3"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=3
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/PCMan/gtk3-nocsd/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

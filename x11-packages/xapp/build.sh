@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/linuxmint/xapp
 TERMUX_PKG_DESCRIPTION="Cross-desktop libraries and common resources "
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.2.2"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="https://github.com/linuxmint/xapp/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz"

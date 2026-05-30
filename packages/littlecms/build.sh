@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://www.littlecms.com/
 TERMUX_PKG_DESCRIPTION="Color management library"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.19.1"
 TERMUX_PKG_SRCURL=https://github.com/mm2/Little-CMS/archive/refs/tags/lcms${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=267705e278e2f7c2fb886c259dadcbaeb2be52748bcbc71c79f08aacacb7a709

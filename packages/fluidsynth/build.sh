@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/FluidSynth/fluidsynth
 TERMUX_PKG_DESCRIPTION="Software synthesizer based on the SoundFont 2 specifications"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.5.4"
 TERMUX_PKG_SRCURL=https://github.com/FluidSynth/fluidsynth/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=72f5720328fe44e2e5c67813885f0a6b4b004d048bd2eeeb0c0064074ebff530

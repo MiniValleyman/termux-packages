@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.funtoo.org/Keychain
 TERMUX_PKG_DESCRIPTION="keychain ssh-agent front-end"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.9.8"
 TERMUX_PKG_SRCURL=https://github.com/funtoo/keychain/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=589cf55ae5c4b65af1d977d705beb319006efca5bcdda8352b8558d0dcff5a84

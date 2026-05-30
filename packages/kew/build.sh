@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://codeberg.org/ravachol/kew
 TERMUX_PKG_DESCRIPTION="Music for the Shell"
 TERMUX_PKG_LICENSE="GPL-2.0-only"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="4.0.0"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="https://codeberg.org/ravachol/kew/archive/v$TERMUX_PKG_VERSION.tar.gz"

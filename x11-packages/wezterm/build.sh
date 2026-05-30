@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/wez/wezterm
 TERMUX_PKG_DESCRIPTION="GPU-accelerated cross-platform terminal emulator and multiplexer"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="20240203-110809-5046fc22"
 TERMUX_PKG_SRCURL="https://github.com/wezterm/wezterm/releases/download/$TERMUX_PKG_VERSION/wezterm-$TERMUX_PKG_VERSION-src.tar.gz"
 TERMUX_PKG_SHA256=df60b1081d402b5a9239cc4cef16fc699eab68bbbeac9c669cb5d991a6010b2c

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://www.doxygen.org
 TERMUX_PKG_DESCRIPTION="A documentation system for C++, C, Java, IDL and PHP"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.17.0"
 TERMUX_PKG_SRCURL="https://github.com/doxygen/doxygen/archive/refs/tags/Release_${TERMUX_PKG_VERSION//./_}.tar.gz"
 TERMUX_PKG_SHA256=28199ea88989fc56e302c927ef979596fe9247dd231e767ba6edcdbaa49f78aa

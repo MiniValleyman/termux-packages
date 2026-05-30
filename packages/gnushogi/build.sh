@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.gnu.org/software/gnushogi/
 TERMUX_PKG_DESCRIPTION="Program that plays the game of Shogi, also known as Japanese Chess"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=5bb0b5b2f6953b3250e965c7ecaf108215751a74
 _COMMIT_DATE=20141119
 TERMUX_PKG_VERSION=1.4.2-p${_COMMIT_DATE}

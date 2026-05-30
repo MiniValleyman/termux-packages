@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://dev.lovelyhq.com/libburnia
 TERMUX_PKG_DESCRIPTION="Library for reading, mastering and writing optical discs"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.5.8"
 TERMUX_PKG_SRCURL=https://files.libburnia-project.org/releases/libburn-$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=8e24dd99f5b7cafbecf0116d61b619ee89098e20263e6f47c793aaf4a98d6473

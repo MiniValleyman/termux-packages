@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://docs.xfce.org/xfce/exo/start
 TERMUX_PKG_DESCRIPTION="Application library for XFCE"
 TERMUX_PKG_LICENSE="GPL-2.0, LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="4.21.0"
 TERMUX_PKG_SRCURL=https://archive.xfce.org/src/xfce/exo/${TERMUX_PKG_VERSION%.*}/exo-${TERMUX_PKG_VERSION}.tar.bz2
 TERMUX_PKG_SHA256=26f85ca2db3bcf99d8b8af28b0d565b0186ccc3d2ed4a5ba315f6a589b8bc2c9

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://calligra.org/
 TERMUX_PKG_DESCRIPTION="Office and graphic art suite by KDE"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="26.04.1"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/release-service/${TERMUX_PKG_VERSION}/src/calligra-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=193ce06bf7dc3225a8961123aa131c245d49519154bf095804dacaee06197685

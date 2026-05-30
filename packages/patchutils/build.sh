@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/twaugh/patchutils
 TERMUX_PKG_DESCRIPTION="A collection of programs for manipulating patch files"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.4.5"
 TERMUX_PKG_SRCURL="https://github.com/twaugh/patchutils/releases/download/$TERMUX_PKG_VERSION/patchutils-$TERMUX_PKG_VERSION.tar.xz"
 TERMUX_PKG_SHA256=8386a35a4d2d3cbc28fdcc93c5be007c382c78e3ee079070139f0d822e013325

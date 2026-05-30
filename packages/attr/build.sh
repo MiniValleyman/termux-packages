@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://savannah.nongnu.org/projects/attr/
 TERMUX_PKG_DESCRIPTION="Utilities for manipulating filesystem extended attributes"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.5.2"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=http://download.savannah.gnu.org/releases/attr/attr-${TERMUX_PKG_VERSION}.tar.gz

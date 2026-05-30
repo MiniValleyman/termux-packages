@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/frameworks/krunner"
 TERMUX_PKG_DESCRIPTION="Framework for providing different actions given a string query"
 TERMUX_PKG_LICENSE="LGPL-2.0-only, LGPL-3.0-only"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.26.0"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/frameworks/${TERMUX_PKG_VERSION%.*}/krunner-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=3519c7fe170be1359a4c38dd5269de64c0208ccfeb950661002ddfa4e92f2bf0

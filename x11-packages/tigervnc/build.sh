@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://tigervnc.org/
 TERMUX_PKG_DESCRIPTION="Suite of VNC servers. Based on the VNC 4 branch of TightVNC."
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=(1.16.2
 # Align the version with `xorg-server` package.
                     21.1.16)

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://rizin.re
 TERMUX_PKG_DESCRIPTION="UNIX-like reverse engineering framework and command-line toolset."
 TERMUX_PKG_LICENSE="GPL-3.0, LGPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.8.2"
 TERMUX_PKG_REVISION=1
 # Use source tarball from release assets to get all bundled projects

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://www.flintlib.org
 TERMUX_PKG_DESCRIPTION="C library for doing number theory"
 TERMUX_PKG_LICENSE="LGPL-3.0-only"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.5.0"
 TERMUX_PKG_SRCURL="https://github.com/flintlib/flint/releases/download/v$TERMUX_PKG_VERSION/flint-$TERMUX_PKG_VERSION.tar.gz"
 TERMUX_PKG_SHA256=3982f385f00610a944e0152eb0a29893b2366fa640e8f5f3076c47564cf7e2a6

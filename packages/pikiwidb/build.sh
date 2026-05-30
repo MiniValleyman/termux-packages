@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/OpenAtomFoundation/pikiwidb
 TERMUX_PKG_DESCRIPTION="Redis-Compatible database developed by Qihoo's infrastructure team"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=(3.5.6
 					1.0.7)
 TERMUX_PKG_REVISION=1

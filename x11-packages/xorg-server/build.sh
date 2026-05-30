@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://xorg.freedesktop.org/wiki/
 TERMUX_PKG_DESCRIPTION="Xorg server"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 # Keep version of `tigervnc` package aligned with this package, revbump tigervnc after modifying patches of this package
 TERMUX_PKG_VERSION="21.1.16"
 TERMUX_PKG_REVISION=3

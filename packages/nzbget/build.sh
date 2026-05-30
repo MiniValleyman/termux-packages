@@ -2,7 +2,7 @@ TERMUX_PKG_HOMEPAGE=https://nzbget.com/
 TERMUX_PKG_DESCRIPTION="The most efficient usenet downloader"
 # License: GPL-2.0-with-OpenSSL-exception
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="26.0"
 TERMUX_PKG_SRCURL="https://github.com/nzbgetcom/nzbget/archive/refs/tags/v$TERMUX_PKG_VERSION.tar.gz"
 TERMUX_PKG_SHA256=9b683ce96d7a2e5e702a169e3fbfd16824cfe0ce8ed887c76cc25a574f69c9cd

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://libresprite.github.io/
 TERMUX_PKG_DESCRIPTION="Free and open source program for creating and animating sprites"
 TERMUX_PKG_LICENSE="GPL-2.0-only"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.2"
 TERMUX_PKG_SRCURL="https://github.com/LibreSprite/LibreSprite/releases/download/v$TERMUX_PKG_VERSION/SOURCE.CODE.+.submodules.tar.gz"
 TERMUX_PKG_SHA256=38a2387694df9d5725244622d1c2e6cae8aced06b19c19cfbeab96afb13523c0

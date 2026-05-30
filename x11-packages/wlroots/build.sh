@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.freedesktop.org/wlroots/wlroots
 TERMUX_PKG_DESCRIPTION="Modular wayland compositor library"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.18.2"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://gitlab.freedesktop.org/wlroots/wlroots/-/archive/${TERMUX_PKG_VERSION}/wlroots-${TERMUX_PKG_VERSION}.tar.bz2

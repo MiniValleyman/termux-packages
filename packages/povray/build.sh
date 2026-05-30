@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://www.povray.org/
 TERMUX_PKG_DESCRIPTION="The Persistence of Vision Raytracer"
 TERMUX_PKG_LICENSE="AGPL-V3"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.8.0-beta.2"
 TERMUX_PKG_REVISION=18
 TERMUX_PKG_SRCURL="https://github.com/POV-Ray/povray/releases/download/v${TERMUX_PKG_VERSION}/povunix-v${TERMUX_PKG_VERSION}-src.tar.gz"

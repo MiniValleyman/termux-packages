@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://qalculate.github.io/
 TERMUX_PKG_DESCRIPTION="A multi-purpose cross-platform desktop calculator"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="5.11.0"
 TERMUX_PKG_SRCURL=https://github.com/Qalculate/qalculate-gtk/releases/download/v${TERMUX_PKG_VERSION}/qalculate-gtk-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=529854fc5a3bd62a1a0e814879c576668b238604c5b2cb2c422979aeac355927

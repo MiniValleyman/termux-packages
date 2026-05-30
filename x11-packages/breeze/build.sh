@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/plasma/breeze"
 TERMUX_PKG_DESCRIPTION="Artwork, styles and assets for the Breeze visual style for the Plasma Desktop"
 TERMUX_PKG_LICENSE="LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.6.5"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/plasma/${TERMUX_PKG_VERSION}/breeze-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=06c4c3e466cd03a8c1e411a38b04756b6e145879a560534b2fc44666d41330f4

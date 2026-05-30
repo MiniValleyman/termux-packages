@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=http://www.gnumeric.org/
 TERMUX_PKG_DESCRIPTION="The GNOME spreadsheet"
 TERMUX_PKG_LICENSE="GPL-2.0, GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.12.61"
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/gnumeric/${TERMUX_PKG_VERSION%.*}/gnumeric-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=2ac135d856572713c1a408b76b50a59f2a9769ed21f1213446b5af255df20a12

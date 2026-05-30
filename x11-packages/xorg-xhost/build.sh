@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://xorg.freedesktop.org/
 TERMUX_PKG_DESCRIPTION="Server access control program for X"
 TERMUX_PKG_LICENSE="MIT, HPND"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.0.10"
 TERMUX_PKG_SRCURL=https://xorg.freedesktop.org/archive/individual/app/xhost-$TERMUX_PKG_VERSION.tar.xz
 TERMUX_PKG_SHA256=a8afd70059479c712948b895e41c35a4a8bfcede3ba2d5a4b855c88bbb725be1

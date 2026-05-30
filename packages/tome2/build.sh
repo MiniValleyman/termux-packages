@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/tome2/tome2
 TERMUX_PKG_DESCRIPTION="An open world roguelike adventure set in middle earth"
 TERMUX_PKG_LICENSE="non-free"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=885799917d42ea9e6eb69fc320fa03922cd8cbb4
 TERMUX_PKG_VERSION="2025.12.13"
 TERMUX_PKG_REVISION=1

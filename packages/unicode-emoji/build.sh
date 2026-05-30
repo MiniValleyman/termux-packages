@@ -2,7 +2,7 @@ TERMUX_PKG_HOMEPAGE=https://unicode.org/emoji/
 TERMUX_PKG_DESCRIPTION="Unicode Emoji Data Files"
 TERMUX_PKG_LICENSE="custom"
 TERMUX_PKG_LICENSE_FILE="copyright.html"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="17.0.0"
 TERMUX_PKG_SRCURL=(
 	https://www.unicode.org/Public/$TERMUX_PKG_VERSION/emoji/emoji-sequences.txt

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.gnome.org/GNOME/msitools
 TERMUX_PKG_DESCRIPTION="Set of programs to inspect and build Windows Installer (.MSI) files"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.106"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://download.gnome.org/sources/msitools/${TERMUX_PKG_VERSION}/msitools-${TERMUX_PKG_VERSION}.tar.xz

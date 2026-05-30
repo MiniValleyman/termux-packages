@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://docs.xfce.org/panel-plugins/xfce4-docklike-plugin/start
 TERMUX_PKG_DESCRIPTION="A modern, docklike, minimalist taskbar for XFCE"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.5.1"
 TERMUX_PKG_SRCURL=https://archive.xfce.org/src/panel-plugins/xfce4-docklike-plugin/${TERMUX_PKG_VERSION%.*}/xfce4-docklike-plugin-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=9d7b355c2be37fb0a73b77b4ed75f092d23c012a67b102c9f847c55ddc3095df

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://libsodium.org/
 TERMUX_PKG_DESCRIPTION="Network communication, cryptography and signaturing library"
 TERMUX_PKG_LICENSE="ISC"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.0.22"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="https://github.com/jedisct1/libsodium/archive/refs/tags/${TERMUX_PKG_VERSION}-RELEASE.tar.gz"

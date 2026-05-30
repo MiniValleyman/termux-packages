@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.gnome.org/GNOME/libhandy/
 TERMUX_PKG_DESCRIPTION="Building blocks for modern adaptive GNOME apps"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _MAJOR_VERSION=1.8
 TERMUX_PKG_VERSION=${_MAJOR_VERSION}.3
 TERMUX_PKG_REVISION=2

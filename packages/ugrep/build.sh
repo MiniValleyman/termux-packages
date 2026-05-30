@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://github.com/Genivia/ugrep"
 TERMUX_PKG_DESCRIPTION="A faster, user-friendly and compatible grep replacement"
 TERMUX_PKG_LICENSE="BSD 3-Clause"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="7.8.2"
 TERMUX_PKG_SRCURL="https://github.com/Genivia/ugrep/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256=f991cc6c61dbc5af5a3b3939083e917df4113509549670fb400d121f639f69f6

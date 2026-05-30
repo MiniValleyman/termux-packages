@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://www.cups.org/"
 TERMUX_PKG_DESCRIPTION="Common UNIX Printing System"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.4.19"
 TERMUX_PKG_SRCURL=https://github.com/OpenPrinting/cups/releases/download/v${TERMUX_PKG_VERSION}/cups-${TERMUX_PKG_VERSION}-source.tar.gz
 TERMUX_PKG_SHA256=820984b12a67f98705785aae2dd1347fe0ac097828001d4583ff64574aed6389

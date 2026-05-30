@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://jedisct1.github.io/minisign/
 TERMUX_PKG_DESCRIPTION="A dead simple tool to sign files and verify signatures"
 TERMUX_PKG_LICENSE="ISC"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.12"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/jedisct1/minisign/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz

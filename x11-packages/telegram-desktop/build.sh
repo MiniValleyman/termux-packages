@@ -3,7 +3,7 @@ TERMUX_PKG_DESCRIPTION="Telegram Desktop Client"
 # LICENSE: Modified GPL-2.0
 TERMUX_PKG_LICENSE="custom"
 TERMUX_PKG_LICENSE_FILE="LICENSE, LEGAL"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.8.2"
 TERMUX_PKG_SRCURL="https://github.com/telegramdesktop/tdesktop/releases/download/v$TERMUX_PKG_VERSION/tdesktop-$TERMUX_PKG_VERSION-full.tar.gz"
 TERMUX_PKG_SHA256=cce1c196ef00703e9872d7072defd14860c970effc52d52d990745c8dca16cac

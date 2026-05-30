@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/ayntgl/discordo
 TERMUX_PKG_DESCRIPTION="A lightweight, secure, and feature-rich Discord terminal client"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 _COMMIT=cdd97ff900a099ca520e5a720c547780dd6de162
 TERMUX_PKG_VERSION=2025.08.06
 TERMUX_PKG_SRCURL=git+https://github.com/ayntgl/discordo

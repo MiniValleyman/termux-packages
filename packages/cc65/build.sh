@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://cc65.github.io/
 TERMUX_PKG_DESCRIPTION="A free compiler for 6502 based system"
 TERMUX_PKG_LICENSE="ZLIB"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=2.19
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL=https://github.com/cc65/cc65/archive/refs/tags/V${TERMUX_PKG_VERSION}.tar.gz

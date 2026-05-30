@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://gitlab.gnome.org/World/morphosis"
 TERMUX_PKG_DESCRIPTION="Convert your documents"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="50.0"
 TERMUX_PKG_REVISION=1
 TERMUX_PKG_SRCURL="https://gitlab.gnome.org/World/morphosis/-/archive/${TERMUX_PKG_VERSION}/morphosis-${TERMUX_PKG_VERSION}.tar.gz"

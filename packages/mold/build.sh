@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/rui314/mold
 TERMUX_PKG_DESCRIPTION="mold: A Modern Linker"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="2.41.0"
 TERMUX_PKG_SRCURL=https://github.com/rui314/mold/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=0a61abac85d818437b425df856822e9d6e9982baeae5a93bcb02fe6c0060c61a

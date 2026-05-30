@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://gitlab.com/gitlab-org/cli
 TERMUX_PKG_DESCRIPTION="A GitLab CLI tool bringing GitLab to your command line"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.100.0"
 TERMUX_PKG_SRCURL=https://gitlab.com/gitlab-org/cli/-/archive/v${TERMUX_PKG_VERSION}/cli-${TERMUX_PKG_VERSION}.tar.bz2
 TERMUX_PKG_SHA256=67410f200d3cd84962a1feb0805ee1dd2aa7caa355687678c15b609f2d7223b6

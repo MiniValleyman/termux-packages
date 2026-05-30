@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://bitcoincore.org/
 TERMUX_PKG_DESCRIPTION="Bitcoin Core"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="31.0"
 TERMUX_PKG_SRCURL="https://github.com/bitcoin/bitcoin/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256=884fd15f195df3d36ab9c7d8854be16c53d9e7596ec001c283626e0fc1837e67

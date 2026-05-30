@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://wiki.documentfoundation.org/DLP/Libraries/libvisio
 TERMUX_PKG_DESCRIPTION="Library providing ability to interpret and import visio diagrams"
 TERMUX_PKG_LICENSE="MPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.1.10"
 TERMUX_PKG_SRCURL="https://dev-www.libreoffice.org/src/libvisio/libvisio-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=9e9eff75112d4d92d92262ad7fc2599c21e26f8fc5ba54900efdc83c0501e472

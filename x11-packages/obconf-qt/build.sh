@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://lxqt.github.io
 TERMUX_PKG_DESCRIPTION="OpenBox window manager configuration tool"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.16.6"
 TERMUX_PKG_SRCURL="https://github.com/lxqt/obconf-qt/releases/download/${TERMUX_PKG_VERSION}/obconf-qt-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=23cc8d16fa639871a2087644527afddcdbac9553a65768f7847f598de29d0715

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://upower.freedesktop.org/
 TERMUX_PKG_DESCRIPTION="Power management support for DeviceKit"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.91.2"
 TERMUX_PKG_SRCURL="https://gitlab.freedesktop.org/upower/upower/-/archive/v$TERMUX_PKG_VERSION/upower-v$TERMUX_PKG_VERSION.tar.gz"
 TERMUX_PKG_SHA256=cd9a3a3f5e0aa21eac131253228757bbdc90ecd39768f46c325754e32daa3083

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://midnight-commander.org
 TERMUX_PKG_DESCRIPTION="Midnight Commander - a powerful file manager"
 TERMUX_PKG_LICENSE="GPL-3.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="4.8.33"
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://github.com/MidnightCommander/mc/archive/refs/tags/${TERMUX_PKG_VERSION}.tar.gz

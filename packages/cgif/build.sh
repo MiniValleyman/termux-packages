@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/dloebl/cgif
 TERMUX_PKG_DESCRIPTION="A fast and lightweight GIF encoding library"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.5.3"
 TERMUX_PKG_SRCURL=https://github.com/dloebl/cgif/archive/refs/tags/v$TERMUX_PKG_VERSION.tar.gz
 TERMUX_PKG_SHA256=dcc7731e974ee77db75df26c99aca4d95f11ca2d267d870d42bce1e0d1e1e75f

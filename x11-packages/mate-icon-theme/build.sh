@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://mate-desktop.org/
 TERMUX_PKG_DESCRIPTION="MATE default icon theme"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.28.0"
 TERMUX_PKG_SRCURL="https://github.com/mate-desktop/mate-icon-theme/releases/download/v$TERMUX_PKG_VERSION/mate-icon-theme-$TERMUX_PKG_VERSION.tar.xz"
 TERMUX_PKG_SHA256=94d6079060ca5df74542921de4eea38b7d02d07561c919356d95de876f9a6d3a

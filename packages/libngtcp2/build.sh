@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://github.com/ngtcp2/ngtcp2
 TERMUX_PKG_DESCRIPTION="Implementation of IETF QUIC protocol"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.22.1"
 TERMUX_PKG_SRCURL="https://github.com/ngtcp2/ngtcp2/releases/download/v$TERMUX_PKG_VERSION/ngtcp2-$TERMUX_PKG_VERSION.tar.gz"
 TERMUX_PKG_SHA256=063d80531acac0ddbbc1b9d12829a824edc2abe8dba2e632fd1ce15cfd5632f9

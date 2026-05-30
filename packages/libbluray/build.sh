@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://code.videolan.org/videolan/libbluray/
 TERMUX_PKG_DESCRIPTION="An open-source library designed for Blu-Ray Discs playback for media players"
 TERMUX_PKG_LICENSE="LGPL-2.1"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.4.1"
 TERMUX_PKG_SRCURL=https://downloads.videolan.org/pub/videolan/libbluray/${TERMUX_PKG_VERSION}/libbluray-${TERMUX_PKG_VERSION}.tar.xz
 TERMUX_PKG_SHA256=76b5dc40097f28dca4ebb009c98ed51321b2927453f75cc72cf74acd09b9f449

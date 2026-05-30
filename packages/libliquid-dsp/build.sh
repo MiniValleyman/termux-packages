@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://liquidsdr.org/
 TERMUX_PKG_DESCRIPTION="Software-defined radio digital signal processing library"
 TERMUX_PKG_LICENSE="MIT"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.7.0"
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL="https://github.com/jgaeddert/liquid-dsp/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz"

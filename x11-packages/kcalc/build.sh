@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://apps.kde.org/kcalc/"
 TERMUX_PKG_DESCRIPTION="Scientific Calculator by KDE"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later, LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="26.04.1"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/release-service/${TERMUX_PKG_VERSION}/src/kcalc-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=8b50fa8ac9b3cfd56597492f2c6bbdd06c752f5f9dfeed708710924ad60bc22c

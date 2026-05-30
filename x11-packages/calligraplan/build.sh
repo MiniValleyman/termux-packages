@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://calligra.org/components/plan/
 TERMUX_PKG_DESCRIPTION="Visual database applications creator"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later, LGPL-2.1-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="4.0.1"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/calligraplan/calligraplan-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=9267ea174c04466014343927f73757bb3047dab36a74fc8f38b891e8d8833a39

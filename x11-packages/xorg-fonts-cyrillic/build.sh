@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://xorg.freedesktop.org/
 TERMUX_PKG_DESCRIPTION="X.org cyrillic fonts"
 TERMUX_PKG_LICENSE="custom"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="1.0.4"
 # the ones with other versions just have to be like that because they don't have a version 1.0.4
 TERMUX_PKG_SRCURL=("https://xorg.freedesktop.org/releases/individual/font/font-cronyx-cyrillic-${TERMUX_PKG_VERSION}.tar.xz"

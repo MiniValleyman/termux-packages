@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://bftpd.sourceforge.net/
 TERMUX_PKG_DESCRIPTION="Small, easy-to-configure FTP server"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.6"
 TERMUX_PKG_SRCURL=https://downloads.sourceforge.net/sourceforge/bftpd/bftpd-${TERMUX_PKG_VERSION}.tar.gz
 TERMUX_PKG_SHA256=a867ba93a608cccb60944e1fae00e52b463f416b09235f87a31c023b296ac12e

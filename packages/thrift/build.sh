@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://thrift.apache.org
 TERMUX_PKG_DESCRIPTION="Scalable cross-language services framework for IPC/RPC"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="0.23.0"
 TERMUX_PKG_SRCURL="https://downloads.apache.org/thrift/${TERMUX_PKG_VERSION}/thrift-${TERMUX_PKG_VERSION}.tar.gz"
 TERMUX_PKG_SHA256=1859d932d2ae1f13d16c5a196931208c116310a5ff50f2bfd11d3db03be8f46f

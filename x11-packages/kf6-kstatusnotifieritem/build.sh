@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/frameworks/kstatusnotifieritem"
 TERMUX_PKG_DESCRIPTION="Implementation of Status Notifier Items"
 TERMUX_PKG_LICENSE="LGPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.26.0"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/frameworks/${TERMUX_PKG_VERSION%.*}/kstatusnotifieritem-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=898914c94820f99889d879f33cabbb5fbe7b9f4e24a6a1d9a9b4439489bc3266

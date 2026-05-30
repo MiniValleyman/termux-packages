@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://upx.github.io/
 TERMUX_PKG_DESCRIPTION="the Ultimate Packer for eXecutables"
 TERMUX_PKG_LICENSE="GPL-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="5.1.1"
 TERMUX_PKG_SRCURL=https://github.com/upx/upx/releases/download/v${TERMUX_PKG_VERSION}/upx-${TERMUX_PKG_VERSION}-src.tar.xz
 TERMUX_PKG_SHA256=8eb914115b306fd9fd2110bd3d27ddb8ae7c5a03bb965f7d10f046a3a4ff9dfe

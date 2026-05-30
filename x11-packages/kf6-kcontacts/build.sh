@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/frameworks/kcontacts"
 TERMUX_PKG_DESCRIPTION="Address book API for KDE"
 TERMUX_PKG_LICENSE="LGPL-2.0-only, LGPL-3.0-only"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.26.0"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/frameworks/${TERMUX_PKG_VERSION%.*}/kcontacts-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=dce9af34050fcf09c8b4ece6df5a0abedbaf02fe85039fc371c5e11e91443cf0

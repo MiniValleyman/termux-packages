@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE=https://notcurses.com/
 TERMUX_PKG_DESCRIPTION="blingful TUIs and character graphics"
 TERMUX_PKG_LICENSE="Apache-2.0"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="3.0.17"
 TERMUX_PKG_REVISION=2
 TERMUX_PKG_SRCURL=https://github.com/dankamongmen/notcurses/archive/refs/tags/v${TERMUX_PKG_VERSION}.tar.gz

@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://apps.kde.org/konversation/"
 TERMUX_PKG_DESCRIPTION="A user-friendly and fully-featured IRC client"
 TERMUX_PKG_LICENSE="GPL-2.0-or-later"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="26.04.1"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/release-service/${TERMUX_PKG_VERSION}/src/konversation-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=c1717dbec5f93ce238e6c34885730c7364b795114d7dadfb3ac1ac8506c2ef89

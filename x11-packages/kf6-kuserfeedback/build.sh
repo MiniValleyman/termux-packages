@@ -1,7 +1,7 @@
 TERMUX_PKG_HOMEPAGE="https://invent.kde.org/frameworks/kuserfeedback"
 TERMUX_PKG_DESCRIPTION="Framework for collecting user feedback for applications via telemetry and surveys"
 TERMUX_PKG_LICENSE="LGPL-2.0-only, LGPL-3.0-only"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION="6.26.0"
 TERMUX_PKG_SRCURL="https://download.kde.org/stable/frameworks/${TERMUX_PKG_VERSION%.*}/kuserfeedback-${TERMUX_PKG_VERSION}.tar.xz"
 TERMUX_PKG_SHA256=6cc18dca65a24af2ac262cb9c8761991701c8081a7133487b4ec936003f3f864

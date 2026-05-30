@@ -3,7 +3,7 @@ TERMUX_PKG_DESCRIPTION="A lightweight LLVM python binding for writing JIT compil
 # LICENSES: BSD 2-Clause, Apache-2.0 with LLVM Exceptions
 TERMUX_PKG_LICENSE="BSD 2-Clause, Apache-2.0"
 TERMUX_PKG_LICENSE_FILE="LICENSE, LICENSE.thirdparty"
-TERMUX_PKG_MAINTAINER="@termux"
+TERMUX_PKG_MAINTAINER="PhateValleyman <Jonas.Ned@outlook.com>"
 TERMUX_PKG_VERSION=(
 	"0.47.0"
 	"20.1.8"
